@@ -7889,9 +7889,8 @@ Check,Checks
 Checker,Checkers
 Checkerin,Checkerinnen
 Checking,Checkings
-Checkpoint,Checkpoints
-Cheddarkäse,Cheddarkäses
-Chederschule,Chederschulen
+Cheddar
+Cheder
 Chedi,Chedis
 Cheerleader,Cheerleaders
 Cheerleaderin,Cheerleaderinnen
@@ -7938,7 +7937,7 @@ Cherimoya,Cherimoyas
 Cherub,Cherubs,Cherubinen
 Cherusker,Cheruskers
 Chesterfield,Chesterfields
-Chesterkäse,Chesterkäses
+Chester
 Chevalerie
 Chevalier,Chevaliers
 Chevauleger,Chevaulegers
