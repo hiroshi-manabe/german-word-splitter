@@ -151,7 +151,7 @@ sub decompose {
 sub enum_paths {
     my ($result, $history, $cur) = @_;
     for my $node(@{$cur}) {
-        if ($node->[0] == 0) {
+        if ($node->[0] eq "") {
             push @{$result}, [@{$history}];
             return;
         }
@@ -167,7 +167,7 @@ sub enum_candidates {
     my $word = shift;
     my $nodes;
     $nodes->[0] = [];
-    push @{$nodes->[0]}, [0, undef];
+    push @{$nodes->[0]}, ["", undef];
     for my $i(0..length($word)) {
         my $left_nodes_ref = $nodes->[$i];
         next if not ref($left_nodes_ref);
@@ -176,7 +176,10 @@ sub enum_candidates {
             my $substr = substr($word, $i, $j);
             next if exists $blacklist_dict{$substr};
             next unless exists $declension_dict{$substr} or ($i + $j != length($word) and exists $prefix_dict{$substr});
-            push @{$nodes->[$i + $j]}, [$j, $left_nodes_ref];
+            push @{$nodes->[$i + $j]}, [$substr, $left_nodes_ref];
+            if ($substr =~ m{(.)\1$}) {
+                push @{$nodes->[$i + $j - 1]}, [$substr, $left_nodes_ref];
+            }
         }
     }
     my $result = [];
@@ -185,16 +188,7 @@ sub enum_candidates {
     }
     my $ref = [];
     enum_paths($ref, [], $nodes->[length($word)]);
-    for my $num_array_ref(@{$ref}) {
-        my $str_array_ref = [];
-        my $i = 0;
-        for my $num(@{$num_array_ref}) {
-            push @{$str_array_ref}, substr($word, $i, $num);
-            $i += $num;
-        }
-        push @{$result}, $str_array_ref;
-    }
-    return $result;
+    return $ref;
 }
 
 sub add_eszett_keys {
