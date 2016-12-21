@@ -30,20 +30,18 @@ while (<IN>) {
     chomp;
     my @F = split/\t/;
     my @words = map { lc; } split/,/;
-    my %temp_dict = ();
     @word_dict{@words} = ();
-    @temp_dict{@words} = ();
-    @temp_dict{map { $_."s"; } grep { !m{[s\x{df}]$} } @words} = ();
-    @temp_dict{map { $_."n"; } grep { m{[elr]$} } @words} = ();
-    @temp_dict{map { $_."e"; } grep { m{[^e]$} } @words} = ();
-    @temp_dict{map { $_."en"; } grep { m{[^e]$} } @words} = ();
-    $temp_dict{substr($words[0], 0, length($words[0]) - 1)} = () if $words[0] =~ m{(?<![ie])e$} and length($words[0]) > 4;
-    $temp_dict{substr($words[0], 0, length($words[0]) - 1)."s"} = () if $words[0] =~ m{(?<![ie])e$} and length($words[0]) > 4;
+    @declension_dict{@words} = ();
+    @declension_dict{map { $_."s"; } grep { !m{[s\x{df}]$} } @words} = ();
+    @declension_dict{map { $_."n"; } grep { m{[elr]$} } @words} = ();
+    @declension_dict{map { $_."e"; } grep { m{[^e]$} } @words} = ();
+    @declension_dict{map { $_."en"; } grep { m{[^e]$} } @words} = ();
+    $declension_dict{substr($words[0], 0, length($words[0]) - 1)} = () if $words[0] =~ m{(?<![ie])e$} and length($words[0]) > 4;
+    $declension_dict{substr($words[0], 0, length($words[0]) - 1)."s"} = () if $words[0] =~ m{(?<![ie])e$} and length($words[0]) > 4;
     if ($words[0] =~ m{er$}) {
         $declension_dict{$words[0]."in"} = ();
         $declension_dict{$words[0]."innen"} = ();
     }
-    @{$declension_dict{$_}}{keys %temp_dict} = () for keys %temp_dict;
 }
 close IN;
 
@@ -62,7 +60,6 @@ while (<IN>) {
     $prefix_dict{$_} = ();
 }
 close IN;
-
 
 my @adjective_decl = qw(e er en em es);
 
@@ -118,6 +115,10 @@ while (<IN>) {
     $small_dict{$_} = ();
 }
 close IN;
+
+add_eszett_keys(\%prefix_dict);
+add_eszett_keys(\%declension_dict);
+add_eszett_keys(\%freq_dict);
 
 while (<STDIN>) {
     chomp;
@@ -191,4 +192,26 @@ sub enum_candidates {
         push @{$result}, $str_array_ref;
     }
     return $result;
+}
+
+sub add_eszett_keys {
+    my $dict_ref = shift;
+    for my $key(keys %{$dict_ref}) {
+        next if index($key, "ss") == -1;
+        add_eszett_key($dict_ref, $key, $dict_ref->{$key}, 0);
+    }
+}
+
+sub add_eszett_key {
+    my ($dict_ref, $key, $value, $index) = @_;
+    my $next_index = index($key, "ss", $index);
+    if ($next_index != -1) {
+        add_eszett_key($dict_ref, $key, $value, $next_index + 2);
+        my $eszett_key = $key;
+        substr($eszett_key, $next_index, 2, "\x{df}");
+        add_eszett_key($dict_ref, $eszett_key, $value, $next_index + 1);
+    }
+    else {
+        $dict_ref->{$key} = $value;
+    }
 }
