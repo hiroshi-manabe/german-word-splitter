@@ -119,6 +119,9 @@ close IN;
 add_eszett_keys(\%prefix_dict);
 add_eszett_keys(\%declension_dict);
 add_eszett_keys(\%freq_dict);
+add_reduced_keys(\%prefix_dict);
+add_reduced_keys(\%declension_dict);
+add_reduced_keys(\%freq_dict);
 
 while (<STDIN>) {
     chomp;
@@ -213,5 +216,15 @@ sub add_eszett_key {
     }
     else {
         $dict_ref->{$key} = $value;
+    }
+}
+
+sub add_reduced_keys {
+    my $dict_ref = shift;
+    for my $key(keys %{$dict_ref}) {
+        next unless $key =~ m{([a-z])\1\1};
+        my $reduced_key = $key;
+        $reduced_key =~ s{([a-z])\1\1}{$1$1};
+        $dict_ref->{$reduced_key} = $dict_ref->{$key};
     }
 }
