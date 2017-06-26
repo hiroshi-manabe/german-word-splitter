@@ -8,5 +8,10 @@ What's this?
 
 Usage
 -----
-./decompose_german.pl [additional dictionary file] < input > output
+./split_german.pl [additional dictionary file] < input > output
 
+Example
+-------
+
+$ echo "Wählen Sie im Listenfeld Inhaltsvorlage eine Ordnerinhaltskomponente aus." | ./split_german.pl
+Wählen Sie im Listen-Feld Inhalts-Vorlage eine Ordner-Inhalts-Komponente aus.
