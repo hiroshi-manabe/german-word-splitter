@@ -19611,6 +19611,7 @@ Hotelier,Hoteliers
 Hotelière,Hotelièren
 Hotelierin,Hotelierinnen
 Hotellerie
+Hotfix,Hotfixes
 Hotkey,Hotkeys
 Hotline,Hotlines
 Hotmelt,Hotmelts
@@ -51276,6 +51277,7 @@ Blattern
 Blini
 Boatpeople
 Bodenschätze
+Bodybuilder,Bodybuilders
 Botten
 Bottoms
 Bowls
