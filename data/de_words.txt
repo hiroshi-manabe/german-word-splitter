@@ -54258,6 +54258,7 @@ Mahmoud,Mahmouds
 Mähren,Mährens
 Maike,Maikes
 Mailand,Mailands
+Mailbox,Mailboxen,Mailboxes
 Maillol,Maillols
 Mainz,Mainz'
 Maja,Majas
