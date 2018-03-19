@@ -1970,6 +1970,5 @@ rex
 aten
 iche
 are
-mol
 ikat
 lets
