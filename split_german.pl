@@ -183,7 +183,6 @@ sub enum_candidates {
         my $left_nodes_ref = $nodes->[$i];
         next if not ref($left_nodes_ref);
         for my $j(2..length($word) - $i) {
-            next if $i == 0 and $j == length($word);
             my $substr = substr($word, $i, $j);
             next if exists $blacklist_dict{$substr};
             next unless exists $declension_dict{$substr} or ($i + $j != length($word) and exists $prefix_dict{$substr});
