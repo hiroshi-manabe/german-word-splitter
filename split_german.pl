@@ -85,21 +85,24 @@ while (<IN>) {
         $declension_dict{$F[0]."ers"} = ();
         $declension_dict{$F[0]."erin"} = ();
         $declension_dict{$F[0]."erinnen"} = ();
-        $declension_dict{$F[0]."ende"} = ();
-        $declension_dict{$F[0]."ender"} = ();
-        $declension_dict{$F[0]."enden"} = ();
-        $declension_dict{$F[0]."endes"} = ();
         $declension_dict{$F[0]."ung"} = ();
         if ($orig =~ s{e([lr]n)$}{$1}) {
             $declension_dict{$orig."er"} = ();
             $declension_dict{$orig."ers"} = ();
             $declension_dict{$orig."erin"} = ();
             $declension_dict{$orig."erinnen"} = ();
-            $declension_dict{$orig."ende"} = ();
-            $declension_dict{$orig."ender"} = ();
-            $declension_dict{$orig."enden"} = ();
-            $declension_dict{$orig."endes"} = ();
             $declension_dict{$orig."ung"} = ();
+
+            $declension_dict{$F[0]."nde"} = ();
+            $declension_dict{$F[0]."nder"} = ();
+            $declension_dict{$F[0]."nden"} = ();
+            $declension_dict{$F[0]."ndes"} = ();
+        }
+        else {
+            $declension_dict{$F[0]."ende"} = ();
+            $declension_dict{$F[0]."ender"} = ();
+            $declension_dict{$F[0]."enden"} = ();
+            $declension_dict{$F[0]."endes"} = ();
         }
     }
 }
