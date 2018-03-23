@@ -61,7 +61,7 @@ while (<IN>) {
 }
 close IN;
 
-my @adjective_decl = qw(e er en em es);
+my @adjective_decl = qw(e er en em es ere erer eren erem eres este ester esten estem estes);
 
 open IN, "<", "$data_dir/de_verb_adj.txt" or die;
 while (<IN>) {
@@ -78,20 +78,27 @@ while (<IN>) {
     elsif ($F[1] eq "v") {
         my $orig = $F[0];
         $declension_dict{$F[0]} = ();
+        $declension_dict{$F[0]."s"} = ();
         $F[0] =~ s{n$}{};
         $prefix_dict{$F[0]} = ();
         $prefix_dict{$F[0]} = () if $F[0] =~ s{(?<![ie])e$}{};
         $declension_dict{$F[0]."er"} = ();
+        $declension_dict{$F[0]."ern"} = ();
         $declension_dict{$F[0]."ers"} = ();
         $declension_dict{$F[0]."erin"} = ();
         $declension_dict{$F[0]."erinnen"} = ();
         $declension_dict{$F[0]."ung"} = ();
+        $declension_dict{$F[0]."ungs"} = ();
+        $declension_dict{$F[0]."ungen"} = ();
         if ($orig =~ s{e([lr]n)$}{$1}) {
             $declension_dict{$orig."er"} = ();
+            $declension_dict{$orig."ern"} = ();
             $declension_dict{$orig."ers"} = ();
             $declension_dict{$orig."erin"} = ();
             $declension_dict{$orig."erinnen"} = ();
             $declension_dict{$orig."ung"} = ();
+            $declension_dict{$orig."ungs"} = ();
+            $declension_dict{$orig."ungen"} = ();
 
             $declension_dict{$F[0]."nde"} = ();
             $declension_dict{$F[0]."nder"} = ();

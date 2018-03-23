@@ -162,7 +162,6 @@ abfühlen	v
 abführen	v
 abfüllen	v
 abfüttern	v
-abfüttern	v
 abgabenfrei	a
 abgabenpflichtig	a
 abgabepflichtig	a
@@ -239,7 +238,6 @@ abhandeln	v
 abhandenkommen	v
 abhangen	v
 abhängen	v
-abhängen	v
 abhängig	a
 abhängige	a
 abhängiger	a
@@ -276,7 +274,6 @@ abkapseln	v
 abkassieren	v
 abkauen	v
 abkaufen	v
-abkehren	v
 abkehren	v
 abketten	v
 abkippen	v
@@ -340,7 +337,6 @@ ableiten	v
 ablenken	v
 ablesbar	a
 ablesen	v
-ablesen	v
 ableuchten	v
 ableugnen	v
 ablichten	v
@@ -380,7 +376,6 @@ abnähen	v
 abnehmbar	a
 abnehmen	v
 abnibbeln	v
-abnicken	v
 abnicken	v
 abnorm	a
 abnormal	a
@@ -457,7 +452,6 @@ abrupt	a
 abrüsten	v
 abrutschen	v
 absäbeln	v
-absacken	v
 absacken	v
 absagen	v
 absägen	v
@@ -703,7 +697,6 @@ abwegig	a
 abwehrbereit	a
 abwehren	v
 abwehrgeschwächt	a
-abweichen	v
 abweichen	v
 abweichend	a
 abweichlerisch	a
@@ -1011,7 +1004,6 @@ aktionistisch	a
 aktionsfähig	a
 aktionsunfähig	a
 aktiv	a
-aktive	a
 aktive	a
 aktiver	a
 aktivieren	v
@@ -1506,7 +1498,6 @@ aneinandergrenzen	v
 aneinanderhaften	v
 aneinanderhalten	v
 aneinanderhängen	v
-aneinanderhängen	v
 aneinanderheften	v
 aneinanderketten	v
 aneinanderklammern	v
@@ -1691,7 +1682,6 @@ anhaltinisch	a
 anhaltisch	a
 anhangen	v
 anhängen	v
-anhängen	v
 anhängig	a
 anhänglich	a
 anhanglos	a
@@ -1753,7 +1743,6 @@ anknoten	v
 anknüpfen	v
 anknurren	v
 ankochen	v
-ankohlen	v
 ankohlen	v
 ankokeln	v
 ankommen	v
@@ -1875,7 +1864,6 @@ anpflanzen	v
 anpflaumen	v
 anpflocken	v
 anpicken	v
-anpicken	v
 anpinkeln	v
 anpinnen	v
 anpinseln	v
@@ -1910,7 +1898,6 @@ anregend	a
 anreiben	v
 anreichen	v
 anreichern	v
-anreihen	v
 anreihen	v
 anreisen	v
 anreißen	v
@@ -1954,7 +1941,6 @@ anschlagen	v
 anschlämmen	v
 anschleichen	v
 anschleifen	v
-anschleifen	v
 anschleppen	v
 anschließen	v
 anschlussfertig	a
@@ -1979,7 +1965,6 @@ anschwärzen	v
 anschweben	v
 anschweigen	v
 anschweißen	v
-anschwellen	v
 anschwellen	v
 anschwemmen	v
 anschwimmen	v
@@ -2163,7 +2148,6 @@ antrittsschnell	a
 antrocknen	v
 antun	v
 antupfen	v
-anturnen	v
 anturnen	v
 antwerpener	a
 antworten	v
@@ -2548,7 +2532,6 @@ athematisch	a
 athener	a
 athenisch	a
 ätherisch	a
-ätherisch	a
 atheromatös	a
 äthiopisch	a
 athletisch	a
@@ -2706,7 +2689,6 @@ auffüllen	v
 auffußen	v
 auffuttern	v
 auffüttern	v
-auffüttern	v
 aufgabeln	v
 aufgagen	v
 aufgeben	v
@@ -2760,7 +2742,6 @@ aufhelfen	v
 aufhellen	v
 aufhetzen	v
 aufheulen	v
-aufhocken	v
 aufhocken	v
 aufhöhen	v
 aufholen	v
@@ -2870,7 +2851,6 @@ aufpflanzen	v
 aufpflügen	v
 aufpfropfen	v
 aufpicken	v
-aufpicken	v
 aufplätten	v
 aufplatzen	v
 aufplustern	v
@@ -2956,7 +2936,6 @@ aufschnüren	v
 aufschottern	v
 aufschrauben	v
 aufschrecken	v
-aufschrecken	v
 aufschreiben	v
 aufschreien	v
 aufschrumpfen	v
@@ -2965,7 +2944,6 @@ aufschütteln	v
 aufschütten	v
 aufschwatzen	v
 aufschweißen	v
-aufschwellen	v
 aufschwellen	v
 aufschwemmen	v
 aufschwimmen	v
@@ -3150,7 +3128,6 @@ ausblasen	v
 ausblassen	v
 ausbleiben	v
 ausbleichen	v
-ausbleichen	v
 ausblenden	v
 ausblicken	v
 ausblühen	v
@@ -3309,7 +3286,6 @@ ausführender	a
 ausführlich	a
 ausfüllen	v
 ausfüttern	v
-ausfüttern	v
 ausgabenseitig	a
 ausgären	v
 ausgasen	v
@@ -3412,7 +3388,6 @@ aushandeln	v
 aushändigen	v
 aushangen	v
 aushängen	v
-aushängen	v
 ausharren	v
 aushärten	v
 aushauchen	v
@@ -3444,7 +3419,6 @@ auskämpfen	v
 auskauen	v
 auskaufen	v
 auskehlen	v
-auskehren	v
 auskehren	v
 auskeilen	v
 auskeimen	v
@@ -3500,7 +3474,6 @@ auskuppeln	v
 auskurieren	v
 auslachen	v
 ausladen	v
-ausladen	v
 ausladend	a
 auslagern	v
 ausländerbeauftragte	a
@@ -3526,7 +3499,6 @@ ausleihen	v
 ausleiten	v
 auslernen	v
 auslesen	v
-auslesen	v
 ausleuchten	v
 auslichten	v
 ausliefern	v
@@ -3537,7 +3509,6 @@ ausloben	v
 auslöffeln	v
 ausloggen	v
 auslösbar	a
-auslöschen	v
 auslöschen	v
 auslosen	v
 auslösen	v
@@ -3594,7 +3565,6 @@ ausradeln	v
 ausradieren	v
 ausrangieren	v
 ausrasieren	v
-ausrasten	v
 ausrasten	v
 ausrauben	v
 ausräubern	v
@@ -3937,7 +3907,6 @@ autosuggestiv	a
 autotroph	a
 autotypisch	a
 autozentriert	a
-autozentriert	a
 autözisch	a
 autumnal	a
 auxiliar	a
@@ -3979,7 +3948,6 @@ babysitten	v
 babysittern	v
 bacchantisch	a
 bacchisch	a
-backen	v
 backen	v
 backfertig	a
 backfischhaft	a
@@ -4155,7 +4123,6 @@ baumartig	a
 baumeln	v
 baumen	v
 bäumen	v
-bäumen	v
 bäumig	a
 baumkantig	a
 baumlang	a
@@ -4268,7 +4235,6 @@ bediensteter	a
 bediente	a
 bedienter	a
 bedienungsfreundlich	a
-bedingen	v
 bedingen	v
 bedingt	a
 bedingungslos	a
@@ -4807,7 +4773,6 @@ bequemen	v
 bequemlich	a
 beranken	v
 berappen	v
-berappen	v
 beraten	v
 beratschlagen	v
 beratungsresistent	a
@@ -4833,11 +4798,9 @@ beregnen	v
 bereichern	v
 bereichsübergreifend	a
 bereifen	v
-bereifen	v
 bereinigen	v
 bereisen	v
 bereit	a
-bereiten	v
 bereiten	v
 bereitfinden	v
 bereithaben	v
@@ -4960,7 +4923,6 @@ bescheißen	v
 beschenken	v
 beschenkte	a
 beschenkter	a
-bescheren	v
 bescheren	v
 bescheuert	a
 beschichten	v
@@ -5107,7 +5069,6 @@ bestaunen	v
 bestausgerüstet	a
 bestbekannt	a
 bestbezahlt	a
-beste	a
 beste	a
 bestechen	v
 bestechend	a
@@ -5297,7 +5258,6 @@ bewandert	a
 bewandt	a
 bewässern	v
 bewegbar	a
-bewegen	v
 bewegen	v
 bewegend	a
 beweglich	a
@@ -5593,9 +5553,7 @@ blau	a
 blauäugig	a
 blaublütig	a
 blaue	a
-blaue	a
 blauen	v
-bläuen	v
 bläuen	v
 blauer	a
 blaufränkischer	a
@@ -5613,7 +5571,6 @@ blecken	v
 bleiben	v
 bleibend	a
 bleich	a
-bleichen	v
 bleichen	v
 bleichgesichtig	a
 bleichsüchtig	a
@@ -5684,7 +5641,6 @@ blumenreich	a
 blümerant	a
 blumig	a
 blusig	a
-blutarm	a
 blutarm	a
 blutbefleckt	a
 blutbeschmiert	a
@@ -5757,10 +5713,8 @@ bombardieren	v
 bombastisch	a
 bomben	v
 bombenfest	a
-bombenfest	a
 bombengeschädigt	a
 bombengeschädigter	a
-bombensicher	a
 bombensicher	a
 bombieren	v
 bombig	a
@@ -5855,7 +5809,6 @@ branchiogen	a
 brandaktuell	a
 brandeilig	a
 brandeln	v
-branden	v
 branden	v
 brandenburger	a
 brandenburgisch	a
@@ -6331,7 +6284,6 @@ dachteln	v
 dackeln	v
 dadaistisch	a
 dädalisch	a
-dädalisch	a
 daddeln	v
 dafürhalten	v
 dafürsprechen	v
@@ -6489,7 +6441,6 @@ dauerarbeitslose	a
 dauerarbeitsloser	a
 dauerhaft	a
 dauern	v
-dauern	v
 dauernd	a
 daumenbreit	a
 daumendick	a
@@ -6615,7 +6566,6 @@ dehydratisieren	v
 dehydrieren	v
 deichen	v
 deichseln	v
-deiktisch	a
 deiktisch	a
 deinstallieren	v
 deistisch	a
@@ -6831,7 +6781,6 @@ destruktiv	a
 deszendent	a
 deszendierend	a
 detachieren	v
-detachieren	v
 detachiert	a
 detailbesessen	a
 detailgenau	a
@@ -6849,7 +6798,6 @@ determinieren	v
 deterministisch	a
 detestabel	a
 detonieren	v
-detonieren	v
 deutbar	a
 deuteln	v
 deuten	v
@@ -6861,7 +6809,6 @@ deutschamerikanisch	a
 deutschblütig	a
 deutschblütige	a
 deutschblütiger	a
-deutsche	a
 deutsche	a
 deutscher	a
 deutschfeindlich	a
@@ -6893,6 +6840,7 @@ devotional	a
 dezent	a
 dezentral	a
 dezentralisieren	v
+dezentrieren	v
 dezentriert	a
 dezidieren	v
 dezidiert	a
@@ -6945,7 +6893,6 @@ dichotomisch	a
 dichroitisch	a
 dichromatisch	a
 dicht	a
-dichten	v
 dichten	v
 dichterisch	a
 dichthalten	v
@@ -7052,7 +6999,6 @@ diluvial	a
 dimensional	a
 dimensionieren	v
 dimensionsstabil	a
-dimer	a
 dimer	a
 dimetrisch	a
 diminuieren	v
@@ -7178,7 +7124,6 @@ divinatorisch	a
 divisional	a
 dizygot	a
 docken	v
-docken	v
 dodonäisch	a
 dogmatisch	a
 dogmatisieren	v
@@ -7207,7 +7152,6 @@ dominant	a
 dominicanisch	a
 dominieren	v
 dominierend	a
-dominikanisch	a
 dominikanisch	a
 domizilieren	v
 domiziliert	a
@@ -7292,7 +7236,6 @@ drängen	v
 drangsalieren	v
 drangvoll	a
 dranhalten	v
-dranhängen	v
 dranhängen	v
 drankommen	v
 drankriegen	v
@@ -7443,7 +7386,6 @@ dritthöchste	a
 drittklassig	a
 drittletzte	a
 drittplatzierte	a
-drittplatzierte	a
 drittplatzierter	a
 drittrangig	a
 driven	v
@@ -7565,10 +7507,8 @@ dural	a
 durativ	a
 durchackern	v
 durcharbeiten	v
-durcharbeiten	v
 durcharbeitet	a
 durchatmen	v
-durchbeißen	v
 durchbeißen	v
 durchbekommen	v
 durchberaten	v
@@ -7577,19 +7517,13 @@ durchbiegen	v
 durchbilden	v
 durchblasen	v
 durchblättern	v
-durchblättern	v
 durchblicken	v
 durchblitzen	v
-durchblitzen	v
 durchbluten	v
-durchbluten	v
-durchbohren	v
 durchbohren	v
 durchboxen	v
 durchbraten	v
 durchbrausen	v
-durchbrausen	v
-durchbrechen	v
 durchbrechen	v
 durchbrennen	v
 durchbringen	v
@@ -7598,17 +7532,14 @@ durchbürsten	v
 durchchecken	v
 durchdeklinieren	v
 durchdenken	v
-durchdenken	v
 durchdiskutieren	v
 durchdrängeln	v
 durchdrängen	v
 durchdrehen	v
 durchdringen	v
-durchdringen	v
 durchdringend	a
 durchdrucken	v
 durchdrücken	v
-durcheilen	v
 durcheilen	v
 durcheinanderbringen	v
 durcheinandergehen	v
@@ -7620,33 +7551,25 @@ durcheinanderwirbeln	v
 durcheinanderwürfeln	v
 durchexerzieren	v
 durchfahren	v
-durchfahren	v
-durchfallen	v
 durchfallen	v
 durchfärben	v
 durchfechten	v
 durchfegen	v
 durchfeiern	v
-durchfeiern	v
 durchfeilen	v
 durchfeuchten	v
 durchfinden	v
 durchfliegen	v
-durchfliegen	v
 durchfließen	v
-durchfließen	v
-durchfluten	v
 durchfluten	v
 durchflutschen	v
 durchformen	v
 durchformulieren	v
 durchforschen	v
 durchforsten	v
-durchforsten	v
 durchfragen	v
 durchfressen	a
 durchfressen	v
-durchfrieren	v
 durchfrieren	v
 durchfroren	a
 durchführbar	a
@@ -7659,14 +7582,11 @@ durchgären	v
 durchgeben	v
 durchgedreht	a
 durchgehen	v
-durchgehen	v
 durchgehend	a
 durchgeistigt	a
 durchgeknallt	a
 durchgestalten	v
 durchgliedern	v
-durchgliedern	v
-durchglühen	v
 durchglühen	v
 durchgraben	v
 durchgreifen	v
@@ -7680,7 +7600,6 @@ durchhalten	v
 durchhangeln	v
 durchhängen	v
 durchhauen	v
-durchhauen	v
 durchhecheln	v
 durchheizen	v
 durchholen	v
@@ -7689,15 +7608,11 @@ durchhören	v
 durchirren	v
 durchjagen	v
 durchkämmen	v
-durchkämmen	v
-durchkämpfen	v
 durchkämpfen	v
 durchkauen	v
 durchklettern	v
-durchklettern	v
 durchklicken	v
 durchklingeln	v
-durchklingen	v
 durchklingen	v
 durchklopfen	v
 durchknallen	v
@@ -7707,10 +7622,7 @@ durchkommen	v
 durchkomponieren	v
 durchkoppeln	v
 durchkramen	v
-durchkramen	v
 durchkreuzen	v
-durchkreuzen	v
-durchkriechen	v
 durchkriechen	v
 durchkriegen	v
 durchladen	v
@@ -7718,31 +7630,23 @@ durchlassen	v
 durchlässig	a
 durchlauchtig	a
 durchlaufen	v
-durchlaufen	v
 durchleben	v
 durchlegen	v
 durchleiden	v
 durchleiten	v
 durchlesen	v
 durchleuchten	v
-durchleuchten	v
 durchliegen	v
 durchlochen	v
 durchlöchern	v
-durchlüften	v
 durchlüften	v
 durchmachen	v
 durchmarschieren	v
 durchmengen	v
 durchmessen	v
-durchmessen	v
-durchmessen	v
-durchmischen	v
 durchmischen	v
 durchmogeln	v
 durchmustern	v
-durchmustern	v
-durchnagen	v
 durchnagen	v
 durchnässen	v
 durchnässt	a
@@ -7756,7 +7660,6 @@ durchpauken	v
 durchpausen	v
 durchpeitschen	v
 durchpflügen	v
-durchpflügen	v
 durchplanen	v
 durchpressen	v
 durchprobieren	v
@@ -7766,28 +7669,21 @@ durchpusten	v
 durchputzen	v
 durchqueren	v
 durchrasen	v
-durchrasen	v
 durchrasseln	v
 durchrationalisieren	v
-durchrauschen	v
 durchrauschen	v
 durchrechnen	v
 durchregieren	v
 durchregnen	v
-durchregnen	v
 durchreiben	v
 durchreichen	v
-durchreisen	v
 durchreisen	v
 durchreisende	a
 durchreisender	a
 durchreißen	v
 durchreiten	v
-durchreiten	v
-durchrennen	v
 durchrennen	v
 durchringen	v
-durchrinnen	v
 durchrinnen	v
 durchrollen	v
 durchrosten	v
@@ -7801,19 +7697,14 @@ durchsausen	v
 durchschalten	v
 durchschaubar	a
 durchschauen	v
-durchschauen	v
-durchscheinen	v
 durchscheinen	v
 durchscheinend	a
 durchscheuern	v
 durchschieben	v
 durchschießen	v
-durchschießen	v
 durchschiffen	v
 durchschimmern	v
 durchschlafen	v
-durchschlafen	v
-durchschlagen	v
 durchschlagen	v
 durchschlagend	a
 durchschlägig	a
@@ -7826,65 +7717,50 @@ durchschmelzen	v
 durchschmoren	v
 durchschmuggeln	v
 durchschneiden	v
-durchschneiden	v
 durchschnittlich	a
 durchschreiben	v
 durchschreiten	v
 durchschütteln	v
 durchschweißen	v
 durchschwimmen	v
-durchschwimmen	v
 durchschwitzen	v
-durchschwitzen	v
-durchsegeln	v
 durchsegeln	v
 durchsehen	v
 durchseihen	v
 durchsetzbar	a
-durchsetzen	v
 durchsetzen	v
 durchsetzungsfähig	a
 durchseuchen	v
 durchsichtig	a
 durchsickern	v
 durchsieben	v
-durchsieben	v
 durchsitzen	v
 durchsonnt	a
 durchspielen	v
 durchsprechen	v
 durchspringen	v
-durchspringen	v
 durchspülen	v
 durchstarten	v
 durchstechen	v
-durchstechen	v
 durchstecken	v
 durchstehen	v
-durchsteigen	v
 durchsteigen	v
 durchstellen	v
 durchstieren	v
 durchstimmbar	a
 durchstimmen	v
 durchstöbern	v
-durchstöbern	v
-durchstoßen	v
 durchstoßen	v
 durchstrahlen	v
 durchstrecken	v
 durchstreichen	v
-durchstreichen	v
 durchstreifen	v
-durchströmen	v
 durchströmen	v
 durchstrukturieren	v
 durchstudieren	v
 durchsuchbar	a
 durchsuchen	v
-durchsuchen	v
 durchtanken	v
-durchtanzen	v
 durchtanzen	v
 durchtasten	v
 durchtelefonieren	v
@@ -7894,41 +7770,31 @@ durchtrainiert	a
 durchtränken	v
 durchtreiben	v
 durchtrennen	v
-durchtrennen	v
 durchtreten	v
 durchtrieben	a
 durchtrocknen	v
-durchwachen	v
 durchwachen	v
 durchwachsen	a
 durchwachsen	v
 durchwalten	v
 durchwandern	v
-durchwandern	v
-durchwärmen	v
 durchwärmen	v
 durchwaschen	v
 durchwaten	v
-durchwaten	v
-durchweben	v
 durchweben	v
 durchwehen	v
-durchweichen	v
 durchweichen	v
 durchwerfen	v
 durchwinden	v
 durchwinken	v
 durchwintern	v
 durchwirken	v
-durchwirken	v
 durchwuchern	v
-durchwühlen	v
 durchwühlen	v
 durchwurschteln	v
 durchwurzeln	v
 durchzählen	v
 durchzeichnen	v
-durchziehen	v
 durchziehen	v
 durchzüchten	v
 durchzwängen	v
@@ -8152,7 +8018,6 @@ einbinden	v
 einblasen	v
 einblättrig	a
 einbläuen	v
-einbläuen	v
 einblenden	v
 einbluten	v
 einbohren	v
@@ -8214,7 +8079,6 @@ eineinhalbstündig	a
 einen	v
 einengen	v
 einerlei	a
-einerlei	a
 einfach	a
 einfächerig	a
 einfaches	a
@@ -8260,13 +8124,11 @@ einführen	v
 einfüllen	v
 einfüßig	a
 einfüttern	v
-einfüttern	v
 eingängig	a
 eingattern	v
 eingebaut	a
 eingeben	v
 eingebildet	a
-eingeboren	a
 eingeboren	a
 eingeborene	a
 eingeborener	a
@@ -8415,7 +8277,6 @@ einkurven	v
 einkürzen	v
 einkuscheln	v
 einladen	v
-einladen	v
 einladend	a
 einlagern	v
 einlangen	v
@@ -8452,7 +8313,6 @@ einmauern	v
 einmeißeln	v
 einmengen	v
 einmessen	v
-einmieten	v
 einmieten	v
 einmischen	v
 einmonatig	a
@@ -8536,7 +8396,6 @@ einrühren	v
 einrüsten	v
 eins	a
 einsacken	v
-einsacken	v
 einsäen	v
 einsagen	v
 einsägen	v
@@ -8563,7 +8422,6 @@ einschätzen	v
 einschaufeln	v
 einschäumen	v
 einschenken	v
-einscheren	v
 einscheren	v
 einschichten	v
 einschichtig	a
@@ -8682,7 +8540,6 @@ einstielen	v
 einstig	a
 einstimmen	v
 einstimmig	a
-einstimmig	a
 einstippen	v
 einstmalig	a
 einstöckig	a
@@ -8745,7 +8602,6 @@ einverstanden	a
 einverständig	a
 einverständlich	a
 einwachsen	v
-einwachsen	v
 einwählen	v
 einwalzen	v
 einwandern	v
@@ -8765,7 +8621,6 @@ einwerben	v
 einwerfen	v
 einwertig	a
 einwickeln	v
-einwiegen	v
 einwiegen	v
 einwilligen	v
 einwinkeln	v
@@ -8825,7 +8680,6 @@ eiskalt	a
 eislaufen	v
 eisleber	a
 eiszeitlich	a
-eitel	a
 eitel	a
 eitern	v
 eitrig	a
@@ -9608,7 +9462,6 @@ erethisch	a
 erfahrbar	a
 erfahren	a
 erfahren	v
-erfahren	v
 erfahrungsmäßig	a
 erfassbar	a
 erfassen	v
@@ -9766,7 +9619,6 @@ erlernbar	a
 erlernen	v
 erlesen	a
 erlesen	v
-erlesen	v
 erleuchten	v
 erliegen	v
 erlisten	v
@@ -9876,8 +9728,6 @@ erschöpfen	v
 erschöpfend	a
 erschöpft	a
 erschrecken	v
-erschrecken	v
-erschrecken	v
 erschreckend	a
 erschrecklich	a
 erschröcklich	a
@@ -9920,7 +9770,6 @@ erstaunen	v
 erstaunlich	a
 erstaunt	a
 erstbeste	a
-erste	a
 erste	a
 erstechen	v
 erstehen	v
@@ -10344,7 +10193,6 @@ fächerartig	a
 fächerförmig	a
 fächerig	a
 fächern	v
-fächern	v
 fächerübergreifend	a
 fachextern	a
 fachfremd	a
@@ -10662,7 +10510,6 @@ ferromagnetisch	a
 fertig	a
 fertigbekommen	v
 fertigbringen	v
-fertigbringen	v
 fertigen	v
 fertigmachen	v
 fertigstellen	v
@@ -10926,7 +10773,6 @@ flächsen	a
 flachsfarben	a
 flachsig	a
 flacken	v
-flacken	v
 flackern	v
 fladern	v
 flagellantisch	a
@@ -11020,7 +10866,6 @@ flippern	v
 flippig	a
 flirren	v
 flirten	v
-flittern	v
 flittern	v
 flitzen	v
 floaten	v
@@ -11355,7 +11200,6 @@ freilassen	v
 freilaufen	v
 freilegen	v
 freimachen	v
-freimachen	v
 freimaurerisch	a
 freimütig	a
 freinehmen	v
@@ -11518,7 +11362,6 @@ frühgotisch	a
 frühindustriell	a
 frühinvalid	a
 frühinvalide	a
-frühinvalide	a
 frühkapitalistisch	a
 frühkindlich	a
 frühklassisch	a
@@ -11679,7 +11522,6 @@ fuscheln	v
 fuschen	v
 fuschern	v
 fuseln	v
-fuseln	v
 fusiform	a
 füsilieren	v
 fusionieren	v
@@ -11710,7 +11552,6 @@ futil	a
 futsch	a
 futschikato	a
 futtern	v
-füttern	v
 füttern	v
 futurisch	a
 futuristisch	a
@@ -12254,7 +12095,6 @@ genehmigen	v
 genehmigungsfähig	a
 genehmigungspflichtig	a
 geneigt	a
-geneigt	a
 generalbevollmächtigte	a
 generalbevollmächtigter	a
 generalisieren	v
@@ -12343,8 +12183,6 @@ gepflegt	a
 geplagt	a
 gepunktet	a
 gequält	a
-gerade	a
-gerade	a
 gerade	a
 geradebiegen	v
 gerädert	a
@@ -12684,7 +12522,6 @@ gewöhnungsbedürftig	a
 gewollt	a
 gewünscht	a
 gewürfelt	a
-gewürfelt	a
 gewürzt	a
 gezählt	a
 gezähmt	a
@@ -12702,7 +12539,6 @@ gichtkrank	a
 gickeln	v
 giebelständig	a
 gienen	v
-gieren	v
 gieren	v
 gierig	a
 gießen	v
@@ -13034,7 +12870,6 @@ graubraun	a
 graubündner	a
 graubündnerisch	a
 grauen	v
-grauen	v
 grauenerregend	a
 grauenhaft	a
 grauenvoll	a
@@ -13043,8 +12878,6 @@ graugrün	a
 grauhaarig	a
 graulen	v
 graulich	a
-graulich	a
-gräulich	a
 gräulich	a
 graupeln	v
 graus	a
@@ -13055,7 +12888,6 @@ grausig	a
 grauslich	a
 grauweiß	a
 gravid	a
-gravieren	v
 gravieren	v
 gravierend	a
 gravimetrisch	a
@@ -13113,7 +12945,6 @@ grillieren	v
 grillig	a
 grimassieren	v
 grimm	a
-grimmen	v
 grimmen	v
 grimmig	a
 grimmsch	a
@@ -13352,7 +13183,6 @@ haarscharf	a
 haarspalterisch	a
 haarsträubend	a
 haben	v
-haben	v
 habern	v
 habgierig	a
 habhaft	a
@@ -13367,16 +13197,13 @@ habsüchtig	a
 hacheln	v
 hackeln	v
 hacken	v
-hacken	v
 häckseln	v
 hadern	v
 hadernhaltig	a
 haftbar	a
 haften	v
-haften	v
 haftentlassene	a
 haftentlassener	a
-haftfähig	a
 haftfähig	a
 haftpflichtig	a
 haftpflichtversichert	a
@@ -13468,7 +13295,6 @@ halophil	a
 halsabschneiderisch	a
 halsbrecherisch	a
 halsen	v
-halsen	v
 halslos	a
 halsstarr	a
 halsstarrig	a
@@ -13511,7 +13337,6 @@ handbedient	a
 handbetrieben	a
 handbreit	a
 handelbar	a
-handeln	v
 handeln	v
 handelseinig	a
 handelsfähig	a
@@ -13576,7 +13401,6 @@ hanfen	a
 hangeln	v
 hangen	v
 hängen	v
-hängen	v
 hangendes	a
 hängig	a
 hannoveraner	a
@@ -13636,7 +13460,6 @@ harzer	a
 harzig	a
 hasardieren	v
 haschemitisch	a
-haschen	v
 haschen	v
 haschimitisch	a
 haselnussgroß	a
@@ -13731,7 +13554,6 @@ heben	v
 hebräisch	a
 hebräische	a
 hebraistisch	a
-hecheln	v
 hecheln	v
 hechtblau	a
 hechten	v
@@ -13829,7 +13651,6 @@ heischen	v
 heiser	a
 heiß	a
 heißblütig	a
-heißen	v
 heißen	v
 heißmachen	v
 heißreden	v
@@ -14023,7 +13844,6 @@ herausgucken	v
 heraushaben	v
 heraushalten	v
 heraushandeln	v
-heraushängen	v
 heraushängen	v
 heraushauen	v
 herausheben	v
@@ -14797,7 +14617,6 @@ hinausgraulen	v
 hinausgreifen	v
 hinausgucken	v
 hinaushängen	v
-hinaushängen	v
 hinausheben	v
 hinausjagen	v
 hinauskatapultieren	v
@@ -14914,7 +14733,6 @@ hineingrätschen	v
 hineingreifen	v
 hineingucken	v
 hineinhalten	v
-hineinhängen	v
 hineinhängen	v
 hineinhorchen	v
 hineinhören	v
@@ -15095,8 +14913,6 @@ hintenanstehen	v
 hinterbliebene	a
 hinterbliebener	a
 hinterbringen	v
-hinterbringen	v
-hintere	a
 hintere	a
 hintereinanderfahren	v
 hintereinanderlegen	v
@@ -15110,7 +14926,6 @@ hinterfangen	v
 hinterfotzig	a
 hinterfragen	v
 hinterfüllen	v
-hintergehen	v
 hintergehen	v
 hintergründig	a
 hinterhaken	v
@@ -15132,11 +14947,9 @@ hinterhertragen	v
 hinterherwerfen	v
 hinterkippen	v
 hinterlassen	v
-hinterlassen	v
 hinterlassene	a
 hinterlassener	a
 hinterlaufen	v
-hinterlegen	v
 hinterlegen	v
 hinterlegungsfähig	a
 hinterletzte	a
@@ -15147,7 +14960,6 @@ hinterste	a
 hinterster	a
 hintertreiben	v
 hinterwäldlerisch	a
-hinterziehen	v
 hinterziehen	v
 hintragen	v
 hintreiben	v
@@ -15454,7 +15266,6 @@ hochschleudern	v
 hochschnellen	v
 hochschrauben	v
 hochschrecken	v
-hochschrecken	v
 hochschulpolitisch	a
 hochschwanger	a
 hochschwingen	v
@@ -15667,7 +15478,6 @@ hörige	a
 höriger	a
 horizontal	a
 horizontale	a
-horizontale	a
 horizontieren	v
 hormisch	a
 hormonal	a
@@ -15785,12 +15595,10 @@ hüten	v
 hutförmig	a
 hutlos	a
 hutschen	v
-hutschen	v
 hüttenmännisch	a
 hutzeln	v
 huygenssch	a
 hyalin	a
-hybrid	a
 hybrid	a
 hybridisieren	v
 hydratisieren	v
@@ -16139,7 +15947,6 @@ informationstheoretisch	a
 informatisch	a
 informativ	a
 informatorisch	a
-informell	a
 informell	a
 informieren	v
 infrakrustal	a
@@ -16506,7 +16313,6 @@ inzidentell	a
 inzidieren	v
 inzipient	a
 ionisch	a
-ionisch	a
 ionische	a
 ionisieren	v
 irakisch	a
@@ -16524,7 +16330,6 @@ ironisieren	v
 irr	a
 irrational	a
 irrationell	a
-irre	a
 irre	a
 irreal	a
 irredentistisch	a
@@ -16804,7 +16609,6 @@ kabbeln	v
 kabelgebunden	a
 kabellos	a
 kabeln	v
-kabeln	v
 kachektisch	a
 kacheln	v
 kackbraun	a
@@ -17082,7 +16886,6 @@ kassenzahnärztlich	a
 kassettieren	v
 kassibern	v
 kassieren	v
-kassieren	v
 kassler	a
 kastalisch	a
 kastanienbraun	a
@@ -17179,7 +16982,6 @@ keglig	a
 kehlen	v
 kehlig	a
 kehren	v
-kehren	v
 kehrtmachen	v
 keifen	v
 keilen	v
@@ -17216,7 +17018,6 @@ keppeln	v
 keramisch	a
 kerben	v
 kerbig	a
-kernen	v
 kernen	v
 kerngesund	a
 kernhaft	a
@@ -17258,12 +17059,10 @@ kielholen	v
 kiesbedeckt	a
 kieseln	v
 kiesen	v
-kiesen	v
 kiesig	a
 kiewer	a
 kiffen	v
 kilikisch	a
-killen	v
 killen	v
 killern	v
 kilometerlang	a
@@ -17299,7 +17098,6 @@ kinnlang	a
 kippbar	a
 kippelig	a
 kippeln	v
-kippen	v
 kippen	v
 kippsicher	a
 kirchenälteste	a
@@ -17410,7 +17208,6 @@ klavikular	a
 kleben	v
 klebrig	a
 klecken	v
-klecken	v
 kleckern	v
 klecksen	v
 kleeblattförmig	a
@@ -17473,7 +17270,6 @@ klever	a
 klevisch	a
 klicken	v
 klickern	v
-klickern	v
 klieben	v
 klientenzentriert	a
 klientzentriert	a
@@ -17521,7 +17317,6 @@ kloppen	v
 klopstocksch	a
 klösterlich	a
 klötern	v
-klotzen	v
 klotzen	v
 klotzig	a
 klubeigen	a
@@ -17572,12 +17367,10 @@ knauserig	a
 knausern	v
 knausrig	a
 knautschen	v
-knautschen	v
 knebeln	v
 knechten	v
 knechtisch	a
 kneifen	v
-kneipen	v
 kneipen	v
 kneippen	v
 knetbar	a
@@ -17699,7 +17492,6 @@ kohärieren	v
 kohäsiv	a
 kohlehaltig	a
 kohlen	v
-kohlen	v
 kohlensäurehaltig	a
 kohlrabenschwarz	a
 kohlschwarz	a
@@ -17712,7 +17504,6 @@ kokeln	v
 koken	v
 kokett	a
 kokettieren	v
-koksen	v
 koksen	v
 kolbig	a
 koldern	v
@@ -17729,8 +17520,6 @@ kollegial	a
 kollektiv	a
 kollektivieren	v
 kollektivistisch	a
-kollern	v
-kollern	v
 kollern	v
 kollidieren	v
 kollinear	a
@@ -17802,7 +17591,6 @@ komorisch	a
 kompakt	a
 komparatistisch	a
 komparativ	a
-komparieren	v
 komparieren	v
 kompatibel	a
 kompensatorisch	a
@@ -18187,7 +17975,6 @@ kosovarisch	a
 kostal	a
 kostbar	a
 kosten	v
-kosten	v
 kostenaufwendig	a
 kostenbewusst	a
 kostendeckend	a
@@ -18302,7 +18089,6 @@ krauchen	v
 kraueln	v
 krauen	v
 kraulen	v
-kraulen	v
 kraus	a
 kräuseln	v
 krausen	v
@@ -18356,7 +18142,6 @@ kreisvorsitzender	a
 krellen	v
 kremieren	v
 krempeln	v
-krempeln	v
 krengeln	v
 kreolisch	a
 kreolische	a
@@ -18381,7 +18166,6 @@ kribbeln	v
 krickeln	v
 kriechen	v
 kriecherisch	a
-kriegen	v
 kriegen	v
 kriegerisch	a
 kriegsähnlich	a
@@ -18737,7 +18521,6 @@ lacken	v
 lackglänzend	a
 lackieren	v
 laden	v
-laden	v
 ladenangestellte	a
 ladenangestellter	a
 lädieren	v
@@ -18875,7 +18658,6 @@ läppisch	a
 lappländisch	a
 laramisch	a
 large	a
-large	a
 larifari	a
 lärmarm	a
 lärmempfindlich	a
@@ -18949,7 +18731,6 @@ laut	a
 lauten	v
 läuten	v
 lauter	a
-lauter	a
 läutern	v
 lautgemäß	a
 lautgetreu	a
@@ -18965,7 +18746,6 @@ lauwarm	a
 lavendel	a
 lavendelblau	a
 lavendelfarben	a
-lavieren	v
 lavieren	v
 lawinenartig	a
 lawinengefährdet	a
@@ -19028,7 +18808,6 @@ lebuser	a
 lechzen	v
 leck	a
 lecken	v
-lecken	v
 lecker	a
 leckern	v
 leckschlagen	v
@@ -19059,7 +18838,6 @@ legendarisch	a
 legendenhaft	a
 legendenumwoben	a
 leger	a
-legieren	v
 legieren	v
 legiert	a
 legionär	a
@@ -19186,8 +18964,6 @@ lentikular	a
 lentikulär	a
 lenz	a
 lenzen	v
-lenzen	v
-leoninisch	a
 leoninisch	a
 leonisch	a
 leprakrank	a
@@ -19214,7 +18990,6 @@ lernunwillig	a
 lernwillig	a
 lesbar	a
 lesbisch	a
-lesen	v
 lesen	v
 lesenswert	a
 leserfreundlich	a
@@ -19287,7 +19062,6 @@ lichtelektrisch	a
 lichteln	v
 lichtempfindlich	a
 lichten	v
-lichten	v
 lichterfüllt	a
 lichterloh	a
 lichtern	v
@@ -19323,7 +19097,6 @@ lieblos	a
 liebreich	a
 liebreizend	a
 liebste	a
-liebste	a
 liebster	a
 liechtensteiner	a
 liechtensteinisch	a
@@ -19334,7 +19107,6 @@ lieferfähig	a
 liefern	v
 liegen	v
 liegendes	a
-liften	v
 liften	v
 light	a
 ligieren	v
@@ -19372,8 +19144,6 @@ linieren	v
 liniieren	v
 link	a
 linke	a
-linke	a
-linken	v
 linken	v
 linker	a
 linkisch	a
@@ -19414,7 +19184,6 @@ liquid	a
 liquidieren	v
 lismen	v
 lispeln	v
-listen	v
 listen	v
 listenmäßig	a
 listenreich	a
@@ -19465,7 +19234,6 @@ löcherig	a
 löchern	v
 löchrig	a
 locken	v
-locken	v
 löcken	v
 lockenköpfig	a
 locker	a
@@ -19491,7 +19259,6 @@ logopädisch	a
 logotherapeutisch	a
 logozentrisch	a
 loh	a
-lohen	v
 lohen	v
 lohnabhängig	a
 lohnabhängige	a
@@ -19526,12 +19293,8 @@ losbrausen	v
 losbrechen	v
 löschbar	a
 löschen	v
-löschen	v
-löschen	v
 lose	a
 loseisen	v
-losen	v
-losen	v
 losen	v
 lösen	v
 losfahren	v
@@ -19761,7 +19524,6 @@ magyarisch	a
 magyarisieren	v
 mahagonirot	a
 mähen	v
-mähen	v
 mahlen	v
 mählich	a
 mahnen	v
@@ -19820,7 +19582,6 @@ maliziös	a
 mall	a
 malle	a
 mallen	v
-mallen	v
 malleolar	a
 mallorquinisch	a
 malmen	v
@@ -19847,7 +19608,6 @@ manganhaltig	a
 mangelfrei	a
 mängelfrei	a
 mangelhaft	a
-mangeln	v
 mangeln	v
 mangen	v
 manichäisch	a
@@ -19991,7 +19751,6 @@ maßgeschneidert	a
 maßhalten	v
 maßhaltend	a
 maßhaltig	a
-massieren	v
 massieren	v
 massig	a
 mäßig	a
@@ -20260,7 +20019,6 @@ mensual	a
 mensural	a
 mensuriert	a
 mental	a
-mental	a
 mentalistisch	a
 mephistophelisch	a
 meraner	a
@@ -20365,7 +20123,6 @@ miefig	a
 mies	a
 miesepetrig	a
 miesmachen	v
-mieten	v
 mieten	v
 mietfrei	a
 migrantisch	a
@@ -20522,7 +20279,6 @@ missvergnügt	a
 missverständlich	a
 missverstehen	v
 misten	v
-mistig	a
 mistig	a
 mitangeklagt	a
 mitangeklagte	a
@@ -20688,7 +20444,6 @@ mode	a
 modebewusst	a
 modellhaft	a
 modellieren	v
-modeln	v
 modeln	v
 moderat	a
 moderativ	a
@@ -20898,12 +20653,9 @@ mucksmäuschenstill	a
 muddeln	v
 müde	a
 muffelig	a
-muffelig	a
-muffeln	v
 muffeln	v
 müffeln	v
 muffen	v
-muffig	a
 muffig	a
 mugelig	a
 mühelos	a
@@ -20946,7 +20698,6 @@ multivariat	a
 mumienhaft	a
 mumifizieren	v
 mummeln	v
-mummeln	v
 mümmeln	v
 mummen	v
 münchener	a
@@ -20978,7 +20729,6 @@ mürbemachen	v
 muren	v
 murkeln	v
 murksen	v
-murmeln	v
 murmeln	v
 murren	v
 mürrisch	a
@@ -21206,7 +20956,6 @@ nachrüsten	v
 nachsagen	v
 nachsalzen	v
 nachschaffen	v
-nachschaffen	v
 nachschalten	v
 nachschauen	v
 nachschenken	v
@@ -21288,7 +21037,6 @@ nachversichern	v
 nachversteuern	v
 nachvollziehbar	a
 nachvollziehen	v
-nachwachsen	v
 nachwachsen	v
 nachweinen	v
 nachweisbar	a
@@ -21921,7 +21669,6 @@ nudistisch	a
 nuklear	a
 nuklearmedizinisch	a
 null	a
-null	a
 nullachtfünfzehn	a
 nullen	v
 nullifizieren	v
@@ -21966,7 +21713,6 @@ oberbayrisch	a
 obercool	a
 oberdeutsch	a
 oberdeutsche	a
-obere	a
 obere	a
 oberer	a
 oberfaul	a
@@ -22292,7 +22038,6 @@ orthopädisch	a
 orthoskopisch	a
 orthostatisch	a
 orthotrop	a
-orthotrop	a
 örtlich	a
 ortlos	a
 ortsabhängig	a
@@ -22557,8 +22302,6 @@ paretisch	a
 parfümieren	v
 parfümiert	a
 parieren	v
-parieren	v
-parieren	v
 parietal	a
 parisch	a
 pariser	a
@@ -22624,8 +22367,6 @@ partizipial	a
 partizipieren	v
 partnerschaftlich	a
 parzellieren	v
-paschen	v
-paschen	v
 paschen	v
 paschtunisch	a
 paspelieren	v
@@ -22738,7 +22479,6 @@ peloponnesisch	a
 pelzartig	a
 pelzbesetzt	a
 pelzen	a
-pelzen	v
 pelzen	v
 pelzgefüttert	a
 pelzig	a
@@ -22878,14 +22618,12 @@ petitionieren	v
 petitorisch	a
 petrifizieren	v
 petrinisch	a
-petrinisch	a
 petrochemisch	a
 petrogenetisch	a
 petrografisch	a
 petrol	a
 petrolchemisch	a
 petschieren	v
-petzen	v
 petzen	v
 pfaden	v
 pfadlos	a
@@ -22950,7 +22688,6 @@ pflücken	v
 pflückreif	a
 pflügen	v
 pfriemeln	v
-pfropfen	v
 pfropfen	v
 pfuhlen	v
 pfundig	a
@@ -23035,10 +22772,8 @@ picardisch	a
 piccolo	a
 picheln	v
 pichen	v
-pichen	v
 pickelig	a
 pickeln	v
-picken	v
 picken	v
 pickerlpflichtig	a
 pickern	v
@@ -23083,7 +22818,6 @@ pilgern	v
 pilieren	v
 pilken	v
 pilotieren	v
-pilotieren	v
 pilsener	a
 pilsner	a
 pilzartig	a
@@ -23096,7 +22830,6 @@ pimpe	a
 pimpelig	a
 pimpeln	v
 pimpen	v
-pimpern	v
 pimpern	v
 pindarisch	a
 pingelig	a
@@ -23182,7 +22915,6 @@ plattieren	v
 plattig	a
 plattmachen	v
 plattnasig	a
-platzen	v
 platzen	v
 plätzen	v
 platzieren	v
@@ -23363,7 +23095,6 @@ popfarben	a
 poplig	a
 popmusikalisch	a
 poppen	v
-poppen	v
 poppig	a
 populär	a
 popularisieren	v
@@ -23410,7 +23141,6 @@ postbedienstete	a
 postbediensteter	a
 posteigen	a
 postembryonal	a
-posten	v
 posten	v
 postfertig	a
 postfrisch	a
@@ -23862,7 +23592,6 @@ publizistisch	a
 pucken	v
 puckern	v
 puddeln	v
-puddeln	v
 pudeln	v
 pudelnass	a
 puderig	a
@@ -23873,7 +23602,6 @@ puerperal	a
 puffen	v
 puffern	v
 pulen	v
-pullen	v
 pullen	v
 pullern	v
 pulmonal	a
@@ -24020,7 +23748,6 @@ quecksilbrig	a
 queer	a
 quellbar	a
 quellen	v
-quellen	v
 quellenmäßig	a
 quellenreich	a
 quellfähig	a
@@ -24138,7 +23865,6 @@ rammen	v
 ramponieren	v
 ramponiert	a
 ramschen	v
-ramschen	v
 randalieren	v
 rändeln	v
 rändern	v
@@ -24154,7 +23880,6 @@ rangeln	v
 ranggeln	v
 ranggleich	a
 ranghöchste	a
-ranghöchste	a
 ranghöchster	a
 ranghöhere	a
 ranghöherer	a
@@ -24165,7 +23890,6 @@ rangniedere	a
 rangniederer	a
 ranhalten	v
 rank	a
-ranken	v
 ranken	v
 rankenartig	a
 ränkesüchtig	a
@@ -24183,7 +23907,6 @@ ranschleppen	v
 ranschmeißen	v
 rantrauen	v
 ranzen	v
-ranzen	v
 ranzig	a
 rapid	a
 rapide	a
@@ -24191,7 +23914,6 @@ rapieren	v
 rappelköpfig	a
 rappeln	v
 rappelvoll	a
-rappen	v
 rappen	v
 rapportieren	v
 rapsen	v
@@ -24226,7 +23948,6 @@ rasterartig	a
 rastern	v
 rastlos	a
 raten	v
-raten	v
 ratierlich	a
 ratifizieren	v
 rational	a
@@ -24241,7 +23962,6 @@ rätoromanisch	a
 rätoromanische	a
 ratsam	a
 ratschen	v
-ratschen	v
 rätschen	v
 ratschlagen	v
 rätselhaft	a
@@ -24254,7 +23974,6 @@ ratsvorsitzender	a
 rattenscharf	a
 rattern	v
 rättern	v
-ratzen	v
 ratzen	v
 rau	a
 raubauzig	a
@@ -24372,7 +24091,6 @@ rechnergestützt	a
 rechnerisch	a
 rechnerunterstützt	a
 recht	a
-rechte	a
 rechte	a
 rechteckig	a
 rechten	v
@@ -24573,11 +24291,8 @@ reichsunmittelbar	a
 reichweitenstark	a
 reif	a
 reifen	v
-reifen	v
 reifizieren	v
 reiflich	a
-reihen	v
-reihen	v
 reihen	v
 reihern	v
 reimen	v
@@ -24965,15 +24680,12 @@ ring	a
 ringartig	a
 ringeln	v
 ringen	v
-ringen	v
 ringerisch	a
 ringförmig	a
 ringgeschmückt	a
 rinnen	v
 rinnenförmig	a
 rippeln	v
-rippeln	v
-rippen	v
 rippen	v
 rippenförmig	a
 ripuarisch	a
@@ -25018,7 +24730,6 @@ rodeln	v
 rödeln	v
 roden	v
 roh	a
-röhren	v
 röhren	v
 röhrenförmig	a
 rohrförmig	a
@@ -25099,7 +24810,6 @@ rotorange	a
 rotsehen	v
 rott	a
 rotten	v
-rotten	v
 rötten	v
 rotterdamer	a
 rotwelsch	a
@@ -25143,7 +24853,6 @@ rückdatieren	v
 ruckelfrei	a
 ruckelig	a
 ruckeln	v
-rucken	v
 rucken	v
 rücken	v
 rückenfrei	a
@@ -25371,7 +25080,6 @@ sachverständiger	a
 sackartig	a
 säckeln	v
 sacken	v
-sacken	v
 säcken	v
 sackförmig	a
 sackhüpfen	v
@@ -25397,7 +25105,6 @@ sagittal	a
 sahnen	v
 sahnig	a
 saint	a
-saint	a
 sainte	a
 saisonabhängig	a
 saisonal	a
@@ -25419,7 +25126,6 @@ salbungsvoll	a
 saldieren	v
 salient	a
 salinisch	a
-salisch	a
 salisch	a
 salomonisch	a
 salonfähig	a
@@ -25464,7 +25170,6 @@ sämtlich	a
 samtweich	a
 san	a
 sandartig	a
-sandeln	v
 sandeln	v
 sanden	v
 sandfarben	a
@@ -25567,8 +25272,6 @@ säulenartig	a
 säulenförmig	a
 säulenheiliger	a
 saumäßig	a
-säumen	v
-säumen	v
 säumen	v
 säumig	a
 saumselig	a
@@ -25763,9 +25466,6 @@ schepp	a
 scheppern	v
 scherbeln	v
 scheren	v
-scheren	v
-scheren	v
-scheren	v
 scherenartig	a
 scherren	v
 scherzen	v
@@ -25878,10 +25578,8 @@ schlachtreif	a
 schlachtwarm	a
 schlack	a
 schlacken	v
-schlacken	v
 schlackenfrei	a
 schlackenhaltig	a
-schlackern	v
 schlackern	v
 schladminger	a
 schlafen	v
@@ -25949,7 +25647,6 @@ schleicherisch	a
 schleierhaft	a
 schleierlos	a
 schleifen	v
-schleifen	v
 schleimbildend	a
 schleimen	v
 schleimig	a
@@ -25984,7 +25681,6 @@ schließbar	a
 schließen	v
 schlimm	a
 schlingen	v
-schlingen	v
 schlingern	v
 schlipfen	v
 schlippen	v
@@ -26012,7 +25708,6 @@ schluffen	v
 schluffig	a
 schlummern	v
 schlummernd	a
-schlumpen	v
 schlumpen	v
 schlunzen	v
 schlunzig	a
@@ -26059,7 +25754,6 @@ schmeichelhaft	a
 schmeicheln	v
 schmeichlerisch	a
 schmeißen	v
-schmeißen	v
 schmelzbar	a
 schmelzen	v
 schmelzend	a
@@ -26091,7 +25785,6 @@ schmiegsam	a
 schmieren	v
 schmierig	a
 schminken	v
-schmirgeln	v
 schmirgeln	v
 schmissig	a
 schmitzen	v
@@ -26126,7 +25819,6 @@ schnalzen	v
 schnappen	v
 schnäppern	v
 schnäpseln	v
-schnapsen	v
 schnapsen	v
 schnarchen	v
 schnarren	v
@@ -26259,7 +25951,6 @@ schopenhauerisch	a
 schopenhauersch	a
 schopfartig	a
 schöpfen	v
-schöpfen	v
 schöpferisch	a
 schöppeln	v
 schoppen	v
@@ -26290,7 +25981,6 @@ schrappen	v
 schrauben	v
 schraubenförmig	a
 schraubig	a
-schrecken	v
 schrecken	v
 schreckenerregend	a
 schreckensbleich	a
@@ -26366,7 +26056,6 @@ schuldtragend	a
 schuldtragende	a
 schuleigen	a
 schulen	v
-schulen	v
 schulentlassen	a
 schulentlassene	a
 schulentlassener	a
@@ -26399,7 +26088,6 @@ schummrig	a
 schunkeln	v
 schupfen	v
 schüppeln	v
-schuppen	v
 schuppen	v
 schüppen	v
 schuppenartig	a
@@ -26436,7 +26124,6 @@ schüttern	v
 schutzbedürftig	a
 schutzbefohlene	a
 schutzbefohlener	a
-schützen	v
 schützen	v
 schützenswert	a
 schutzfähig	a
@@ -26558,7 +26245,6 @@ schweizweit	a
 schwelen	v
 schwelgen	v
 schwelgerisch	a
-schwellen	v
 schwellen	v
 schwemmen	v
 schwenden	v
@@ -26701,6 +26387,7 @@ sechste	a
 sechsteilig	a
 sechstel	a
 sechsundzwanzig	a
+sechsunddünfzig	a
 sechswertig	a
 sechswöchentlich	a
 sechswöchig	a
@@ -26791,12 +26478,10 @@ seigern	v
 seihen	v
 seilartig	a
 seilen	v
-seilen	v
 seilhüpfen	v
 seilspringen	v
 seiltanzen	v
 seimig	a
-sein	v
 sein	v
 seinerzeitig	a
 seismisch	a
@@ -27020,7 +26705,6 @@ sicken	v
 sickern	v
 sideral	a
 siderisch	a
-siderisch	a
 siderophil	a
 sidonisch	a
 siebartig	a
@@ -27228,7 +26912,6 @@ skandinavistisch	a
 skarifizieren	v
 skartieren	v
 skateboarden	v
-skaten	v
 skaten	v
 skatologisch	a
 skelettieren	v
@@ -27444,7 +27127,6 @@ spammen	v
 spanabhebend	a
 spanen	v
 spänen	v
-spänen	v
 spanisch	a
 spanische	a
 spanlos	a
@@ -27598,7 +27280,6 @@ spitzbogig	a
 spitzbübisch	a
 spitze	a
 spitzeln	v
-spitzeln	v
 spitzen	v
 spitzenmäßig	a
 spitzfindig	a
@@ -27676,7 +27357,6 @@ sprengen	v
 sprenkeln	v
 sprenzen	v
 sprichwörtlich	a
-sprießen	v
 sprießen	v
 springen	v
 springlebendig	a
@@ -27919,7 +27599,6 @@ stenotop	a
 stenoxybiont	a
 stenzen	v
 steppen	v
-steppen	v
 sterben	v
 sterbende	a
 sterbender	a
@@ -27955,7 +27634,6 @@ stet	a
 stetig	a
 stettiner	a
 steuerbar	a
-steuerbar	a
 steuerbeamter	a
 steuerbegünstigt	a
 steuerbevollmächtigte	a
@@ -27965,7 +27643,6 @@ steuerfrei	a
 steuerlich	a
 steuerlos	a
 steuermindernd	a
-steuern	v
 steuern	v
 steueroptimiert	a
 steuerpflichtig	a
@@ -27999,13 +27676,10 @@ stiellos	a
 stiemen	v
 stier	a
 stieren	v
-stieren	v
-stieren	v
 stierköpfig	a
 stierln	v
 stiernackig	a
 stieselig	a
-stiften	v
 stiften	v
 stiftisch	a
 stigmatisch	a
@@ -28104,7 +27778,6 @@ stoppen	v
 stöpseln	v
 störanfällig	a
 storchen	v
-stören	v
 stören	v
 störfrei	a
 storgen	v
@@ -28269,7 +27942,6 @@ strukturschwach	a
 strullen	v
 strunzdumm	a
 strunzen	v
-strunzen	v
 strupfen	v
 struppig	a
 stubenälteste	a
@@ -28337,7 +28009,6 @@ sturzbetrunken	a
 stürzen	v
 stutenbissig	a
 stuttgarter	a
-stutzen	v
 stutzen	v
 stützen	v
 stutzig	a
@@ -28480,7 +28151,6 @@ sumerisch	a
 sumerische	a
 summarisch	a
 summativ	a
-summen	v
 summen	v
 summieren	v
 sumpfen	v
@@ -28708,7 +28378,6 @@ takeln	v
 takten	v
 taktfest	a
 taktieren	v
-taktieren	v
 taktil	a
 taktisch	a
 taktlos	a
@@ -28806,8 +28475,6 @@ taubstumm	a
 taubstumme	a
 taubstummer	a
 tauchen	v
-tauen	v
-tauen	v
 tauen	v
 taufen	v
 taufgesinnte	a
@@ -28917,7 +28584,6 @@ temperierbar	a
 temperieren	v
 tempern	v
 tempieren	v
-temporal	a
 temporal	a
 temporär	a
 temporeich	a
@@ -29113,7 +28779,6 @@ tintig	a
 tippelig	a
 tippeln	v
 tippen	v
-tippen	v
 tipptopp	a
 tirassieren	v
 tiroler	a
@@ -29191,7 +28856,6 @@ tongaer	a
 tongaisch	a
 tonhaltig	a
 tonig	a
-tonisch	a
 tonisch	a
 tonisieren	v
 tonlos	a
@@ -29489,7 +29153,6 @@ triester	a
 triezen	v
 triften	v
 triftig	a
-triftig	a
 triggern	v
 trigonal	a
 trigonometrisch	a
@@ -29614,7 +29277,6 @@ tumultuarisch	a
 tumultuos	a
 tumultuös	a
 tun	v
-tun	v
 tünchen	v
 tunen	v
 tuneser	a
@@ -29656,9 +29318,7 @@ turkisieren	v
 turkmenisch	a
 turkologisch	a
 türmen	v
-türmen	v
 turmhoch	a
-turnen	v
 turnen	v
 turnerisch	a
 turnieren	v
@@ -29667,7 +29327,6 @@ turnusmäßig	a
 turonisch	a
 turteln	v
 tuscheln	v
-tuschen	v
 tuschen	v
 tuschieren	v
 tuten	v
@@ -29702,11 +29361,9 @@ tyrrhenisch	a
 überanstrengt	a
 überantworten	v
 überarbeiten	v
-überarbeiten	v
 überarbeitet	a
 überbacken	v
 überbacken	a
-überbauen	v
 überbauen	v
 überbaut	a
 überbeanspruchen	v
@@ -29725,7 +29382,6 @@ tyrrhenisch	a
 überbezahlen	v
 überbietbar	a
 überbieten	v
-überbinden	v
 überbinden	v
 überblasen	v
 überblatten	v
@@ -29746,7 +29402,6 @@ tyrrhenisch	a
 überbürden	v
 überdachen	v
 überdauern	v
-überdecken	v
 überdecken	v
 überdehnen	v
 überdenken	v
@@ -29780,30 +29435,23 @@ tyrrhenisch	a
 übererfüllen	v
 übererregbar	a
 überessen	v
-überessen	v
 überfachlich	a
 überfahren	v
-überfahren	v
 überfallartig	a
-überfallen	v
 überfallen	v
 überfallend	a
 überfällig	a
 überfallsartig	a
 überfangen	v
 überfärben	v
-überfärben	v
 überfeinern	v
 überfettet	a
 überfischen	v
 überfleißig	a
 überfliegen	v
-überfliegen	v
-überfließen	v
 überfließen	v
 überflügeln	v
 überflüssig	a
-überfluten	v
 überfluten	v
 überfordern	v
 überformen	v
@@ -29813,14 +29461,11 @@ tyrrhenisch	a
 überfreundlich	a
 überfrieren	v
 überführen	v
-überführen	v
 überfüllen	v
 überfüllt	a
 überfüttern	v
 übergangslos	a
 übergeben	v
-übergeben	v
-übergehen	v
 übergehen	v
 übergemeindlich	a
 übergenau	a
@@ -29828,7 +29473,6 @@ tyrrhenisch	a
 übergesetzlich	a
 übergewichten	v
 übergewichtig	a
-übergießen	v
 übergießen	v
 überglänzen	v
 überglasen	v
@@ -29838,9 +29482,6 @@ tyrrhenisch	a
 übergroß	a
 überhalten	v
 überhandnehmen	v
-überhängen	v
-überhängen	v
-überhängen	v
 überhängen	v
 überhart	a
 überhasten	v
@@ -29854,10 +29495,8 @@ tyrrhenisch	a
 überhöhen	v
 überhöht	a
 überholen	v
-überholen	v
 überholt	a
 überholungsbedürftig	a
-überhören	v
 überhören	v
 überindividuell	a
 überinterpretieren	v
@@ -29871,9 +29510,7 @@ tyrrhenisch	a
 überklettern	v
 überklug	a
 überkochen	v
-überkochen	v
 überkommen	a
-überkommen	v
 überkommen	v
 überkompensieren	v
 überkonfessionell	a
@@ -29883,16 +29520,13 @@ tyrrhenisch	a
 überkrusten	v
 überladen	a
 überladen	v
-überladen	v
 überlagern	v
 überlang	a
 überlappen	v
 überlassen	v
-überlassen	v
 überlasten	v
 überlastet	a
 überlaufen	a
-überlaufen	v
 überlaufen	v
 überlaut	a
 überleben	v
@@ -29904,7 +29538,6 @@ tyrrhenisch	a
 überlebenswichtig	a
 überlebt	a
 überlegen	a
-überlegen	v
 überlegen	v
 überlegene	a
 überlegener	a
@@ -29919,7 +29552,6 @@ tyrrhenisch	a
 überlupfen	v
 übermachen	v
 übermächtig	a
-übermalen	v
 übermalen	v
 übermannen	v
 übermannshoch	a
@@ -29936,7 +29568,6 @@ tyrrhenisch	a
 übernational	a
 übernatürlich	a
 übernehmen	v
-übernehmen	v
 übernervös	a
 übernutzen	v
 übernützen	v
@@ -29944,7 +29575,6 @@ tyrrhenisch	a
 überordnen	v
 überörtlich	a
 überparteilich	a
-überpflanzen	v
 überpflanzen	v
 überpinseln	v
 überplanen	v
@@ -29954,12 +29584,10 @@ tyrrhenisch	a
 überprüfbar	a
 überprüfen	v
 überpudern	v
-überpudern	v
 überpünktlich	a
 überqualifiziert	a
 überquellen	v
 überqueren	v
-überragen	v
 überragen	v
 überragend	a
 überraschen	v
@@ -29983,7 +29611,6 @@ tyrrhenisch	a
 überrieseln	v
 überrissen	a
 überrollen	v
-überrollen	v
 überrumpeln	v
 überrunden	v
 übersäen	v
@@ -29998,10 +29625,8 @@ tyrrhenisch	a
 überschauen	v
 überschäumen	v
 überschießen	v
-überschießen	v
 überschlafen	v
 überschlagen	a
-überschlagen	v
 überschlagen	v
 überschlägig	a
 überschläglich	a
@@ -30016,7 +29641,6 @@ tyrrhenisch	a
 überschuldet	a
 überschüssig	a
 überschütten	v
-überschütten	v
 überschwänglich	a
 überschwappen	v
 überschwemmen	v
@@ -30024,15 +29648,12 @@ tyrrhenisch	a
 überseeisch	a
 übersehbar	a
 übersehen	v
-übersehen	v
 übersenden	v
 übersensibel	a
 übersetzbar	a
 übersetzen	v
-übersetzen	v
 übersetzt	a
 übersichtlich	a
-übersiedeln	v
 übersiedeln	v
 übersieden	v
 übersinnlich	a
@@ -30046,8 +29667,6 @@ tyrrhenisch	a
 überspitzt	a
 übersprechen	v
 überspringen	v
-überspringen	v
-übersprühen	v
 übersprühen	v
 überspülen	v
 überspurten	v
@@ -30055,10 +29674,7 @@ tyrrhenisch	a
 überständig	a
 überstark	a
 überstechen	v
-überstechen	v
 überstehen	v
-überstehen	v
-übersteigen	v
 übersteigen	v
 übersteigern	v
 übersteigert	a
@@ -30069,10 +29685,8 @@ tyrrhenisch	a
 überstrahlen	v
 überstrapazieren	v
 überstreichen	v
-überstreichen	v
 überstreifen	v
 überstreuen	v
-überströmen	v
 überströmen	v
 überstülpen	v
 überstumpf	a
@@ -30093,7 +29707,6 @@ tyrrhenisch	a
 übertreffen	v
 übertreiben	v
 übertreten	v
-übertreten	v
 übertrieben	a
 übertrocknen	v
 übertrumpfen	v
@@ -30110,7 +29723,6 @@ tyrrhenisch	a
 überwachen	v
 überwachsen	v
 überwallen	v
-überwallen	v
 überwältigen	v
 überwältigend	a
 überwältigt	a
@@ -30124,9 +29736,7 @@ tyrrhenisch	a
 überweltlich	a
 überwendlich	a
 überwerfen	v
-überwerfen	v
 überwertig	a
-überwiegen	v
 überwiegen	v
 überwiegend	a
 überwindbar	a
@@ -30138,13 +29748,11 @@ tyrrhenisch	a
 überzählen	v
 überzählig	a
 überzeichnen	v
-überzeichnen	v
 überzeitlich	a
 überzeugen	v
 überzeugend	a
 überzeugt	a
 überzeugungstreu	a
-überziehen	v
 überziehen	v
 überzogen	a
 überzüchtet	a
@@ -30190,7 +29798,6 @@ umändern	v
 umarbeiten	v
 umarmen	v
 umbauen	v
-umbauen	v
 umbenennen	v
 umbeschreiben	v
 umbesetzen	v
@@ -30200,12 +29807,9 @@ umbetten	v
 umbiegen	v
 umbilden	v
 umbinden	v
-umbinden	v
-umblasen	v
 umblasen	v
 umblättern	v
 umblicken	v
-umbrechen	v
 umbrechen	v
 umbringen	v
 umbrisch	a
@@ -30227,7 +29831,6 @@ umentscheiden	v
 umerziehen	v
 umetikettieren	v
 umfahren	v
-umfahren	v
 umfallen	v
 umfälschen	v
 umfangen	v
@@ -30237,11 +29840,9 @@ umfangreich	a
 umfangsmäßig	a
 umfärben	v
 umfassen	v
-umfassen	v
 umfassend	a
 umfirmieren	v
 umflechten	v
-umfliegen	v
 umfliegen	v
 umfließen	v
 umfluten	v
@@ -30257,8 +29858,6 @@ umgänglich	a
 umgangssprachlich	a
 umgarnen	v
 umgeben	v
-umgeben	v
-umgehen	v
 umgehen	v
 umgehend	a
 umgekehrt	a
@@ -30267,18 +29866,14 @@ umgewöhnen	v
 umgießen	v
 umgraben	v
 umgreifen	v
-umgreifen	v
 umgrenzen	v
 umgründen	v
 umgruppieren	v
 umgucken	v
 umgürten	v
-umgürten	v
 umhacken	v
 umhäkeln	v
 umhalsen	v
-umhängen	v
-umhängen	v
 umhängen	v
 umhauen	v
 umheben	v
@@ -30324,7 +29919,6 @@ umklammern	v
 umklappbar	a
 umklappen	v
 umkleiden	v
-umkleiden	v
 umknicken	v
 umkommen	v
 umkopieren	v
@@ -30335,13 +29929,10 @@ umkrempeln	v
 umlackieren	v
 umladen	v
 umlagern	v
-umlagern	v
 umlassen	v
-umlaufen	v
 umlaufen	v
 umlauten	v
 umlegbar	a
-umlegen	v
 umlegen	v
 umleiten	v
 umlenken	v
@@ -30355,7 +29946,6 @@ ummodeln	v
 ummünzen	v
 umnachten	v
 umnähen	v
-umnähen	v
 umnebeln	v
 umnieten	v
 umnutzen	v
@@ -30365,7 +29955,6 @@ umorientieren	v
 umpacken	v
 umparken	v
 umpflanzen	v
-umpflanzen	v
 umpflügen	v
 umplanen	v
 umpolen	v
@@ -30374,15 +29963,12 @@ umprogrammieren	v
 umpumpen	v
 umquartieren	v
 umrahmen	v
-umrahmen	v
 umranden	v
 umrangieren	v
 umranken	v
 umräumen	v
 umrechnen	v
 umreißen	v
-umreißen	v
-umreiten	v
 umreiten	v
 umrennen	v
 umringen	v
@@ -30395,7 +29981,6 @@ umsatteln	v
 umsatzschwach	a
 umsatzstark	a
 umsäumen	v
-umsäumen	v
 umschaffen	v
 umschalten	v
 umschatten	v
@@ -30404,19 +29989,15 @@ umschäumt	a
 umschichten	v
 umschichtig	a
 umschiffen	v
-umschiffen	v
-umschlagen	v
 umschlagen	v
 umschleichen	v
 umschließen	v
-umschlingen	v
 umschlingen	v
 umschmeicheln	v
 umschmeißen	v
 umschmelzen	v
 umschnallen	v
 umschnüren	v
-umschreiben	v
 umschreiben	v
 umschreiten	v
 umschrieben	a
@@ -30441,36 +30022,28 @@ umsinken	v
 umsorgen	v
 umsortieren	v
 umspannen	v
-umspannen	v
 umspeichern	v
 umspielen	v
 umspinnen	v
 umspringen	v
-umspringen	v
-umspritzen	v
 umspritzen	v
 umspulen	v
 umspülen	v
 umständlich	a
 umstandslos	a
 umstechen	v
-umstechen	v
 umstecken	v
-umstecken	v
-umstehen	v
 umstehen	v
 umstehend	a
 umsteigefrei	a
 umsteigen	v
 umstellbar	a
 umstellen	v
-umstellen	v
 umsteuern	v
 umstimmen	v
 umstoßen	v
 umstrahlen	v
 umstreichen	v
-umstricken	v
 umstricken	v
 umstritten	a
 umströmen	v
@@ -30496,13 +30069,11 @@ umwallen	v
 umwälzen	v
 umwandelbar	a
 umwandeln	v
-umwandeln	v
 umwanden	v
 umwandern	v
 umweben	v
 umwechseln	v
 umwegig	a
-umwehen	v
 umwehen	v
 umwehren	v
 umweltbedingt	a
@@ -30523,16 +30094,13 @@ umwerfen	v
 umwerfend	a
 umwerten	v
 umwickeln	v
-umwickeln	v
 umwidmen	v
-umwinden	v
 umwinden	v
 umwogen	v
 umwohnend	a
 umwühlen	v
 umzäunen	v
 umzeichnen	v
-umziehen	v
 umziehen	v
 umzingeln	v
 unabänderlich	a
@@ -30855,7 +30423,6 @@ unergründbar	a
 unergründlich	a
 unerheblich	a
 unerhört	a
-unerhört	a
 unerkannt	a
 unerkennbar	a
 unerklärbar	a
@@ -31047,7 +30614,6 @@ ungesalzen	a
 ungesattelt	a
 ungesättigt	a
 ungesäuert	a
-ungesäumt	a
 ungesäumt	a
 ungeschält	a
 ungeschaut	a
@@ -31418,7 +30984,6 @@ unterbinden	v
 unterbleiben	v
 unterbrechen	v
 unterbreiten	v
-unterbreiten	v
 unterbringen	v
 unterbuttern	v
 unterchlorig	a
@@ -31452,12 +31017,10 @@ untergewichten	v
 untergewichtig	a
 untergliedern	v
 untergraben	v
-untergraben	v
 untergriffig	a
 untergründig	a
 unterhaben	v
 unterhaken	v
-unterhalten	v
 unterhalten	v
 unterhaltsam	a
 unterhaltsberechtigt	a
@@ -31483,24 +31046,18 @@ unterkühlen	v
 unterkühlt	a
 unterlassen	v
 unterlaufen	v
-unterlaufen	v
 unterlegen	a
-unterlegen	v
 unterlegen	v
 unterlegene	a
 unterlegener	a
-unterliegen	v
 unterliegen	v
 untermalen	v
 untermauern	v
 untermeerisch	a
 untermengen	v
-untermengen	v
 unterminieren	v
 untermischen	v
-untermischen	v
 untermotorisiert	a
-unternehmen	v
 unternehmen	v
 unternehmend	a
 unternehmenseigen	a
@@ -31530,12 +31087,10 @@ unterschätzen	v
 unterscheidbar	a
 unterscheiden	v
 unterschieben	v
-unterschieben	v
 unterschieden	a
 unterschiedlich	a
 unterschiedslos	a
 unterschlächtig	a
-unterschlagen	v
 unterschlagen	v
 unterschlupfen	v
 unterschlüpfen	v
@@ -31550,7 +31105,6 @@ unterschweflig	a
 unterschwellig	a
 unterseeisch	a
 untersetzen	v
-untersetzen	v
 untersetzt	a
 untersiegeln	v
 unterspielen	v
@@ -31560,12 +31114,9 @@ unterständig	a
 unterstandslos	a
 unterste	a
 unterstehen	v
-unterstehen	v
-unterstellen	v
 unterstellen	v
 untersteuern	v
 unterstreichen	v
-unterstützen	v
 unterstützen	v
 unterstützungsbedürftig	a
 unterstützungsberechtigt	a
@@ -31575,7 +31126,6 @@ untersuchungsgefangener	a
 untertan	a
 untertänig	a
 untertariflich	a
-untertauchen	v
 untertauchen	v
 unterteilen	v
 untertiteln	v
@@ -31598,7 +31148,6 @@ unterwürfig	a
 unterzeichnen	v
 unterzeichnete	a
 unterzeichneter	a
-unterziehen	v
 unterziehen	v
 unterzuckert	a
 untief	a
@@ -32039,7 +31588,6 @@ verauslagen	v
 veräußerlich	a
 veräußerlichen	v
 veräußern	v
-verbacken	v
 verbacken	v
 verbal	a
 verbalisieren	v
@@ -32588,7 +32136,6 @@ verknoten	v
 verknüpfen	v
 verkochen	v
 verkohlen	v
-verkohlen	v
 verkoken	v
 verkommen	v
 verkommen	a
@@ -32659,7 +32206,6 @@ verleimen	v
 verleiten	v
 verlernen	v
 verlesen	v
-verlesen	v
 verletzbar	a
 verletzen	v
 verletzend	a
@@ -32690,7 +32236,6 @@ verlogen	a
 verlohen	v
 verlohnen	v
 verloren	a
-verlöschen	v
 verlöschen	v
 verlosen	v
 verlöten	v
@@ -32767,7 +32312,6 @@ vermufft	a
 vermüllen	v
 vermummen	v
 vermuren	v
-vermuren	v
 vermurksen	v
 vermuten	v
 vermutlich	a
@@ -32815,7 +32359,6 @@ verpacken	v
 verpanschen	v
 verparken	v
 verpartnern	v
-verpassen	v
 verpassen	v
 verpatzen	v
 verpennen	v
@@ -32984,7 +32527,6 @@ verschließbar	a
 verschließen	v
 verschlimmbessern	v
 verschlimmern	v
-verschlingen	v
 verschlingen	v
 verschlissen	a
 verschlossen	a
@@ -33309,7 +32851,6 @@ vervollkommnen	v
 vervollständigen	v
 verwachsen	v
 verwachsen	a
-verwachsen	v
 verwackeln	v
 verwackelt	a
 verwählen	v
@@ -33365,7 +32906,6 @@ verwerflich	a
 verwertbar	a
 verwerten	v
 verwesen	v
-verwesen	v
 verweslich	a
 verwestlichen	v
 verwetten	v
@@ -33374,7 +32914,6 @@ verwickeln	v
 verwickelt	a
 verwiegen	v
 verwildern	v
-verwinden	v
 verwinden	v
 verwindungsfest	a
 verwinkelt	a
@@ -33415,7 +32954,6 @@ verwüsten	v
 verzagen	v
 verzagt	a
 verzählen	v
-verzählen	v
 verzahnen	v
 verzanken	v
 verzapfen	v
@@ -33437,13 +32975,11 @@ verzerren	v
 verzerrt	a
 verzerrungsfrei	a
 verzetteln	v
-verzetteln	v
 verzichtbar	a
 verzichten	v
 verziehen	v
 verzieren	v
 verzimmern	v
-verzinken	v
 verzinken	v
 verzinnen	v
 verzinsbar	a
@@ -33931,7 +33467,6 @@ vorhaben	v
 vorhalten	v
 vorhanden	a
 vorhängen	v
-vorhängen	v
 vorheizen	v
 vorherberechnen	v
 vorherbestimmen	v
@@ -34001,7 +33536,6 @@ vorprägen	v
 vorpreschen	v
 vorproduzieren	v
 vorprogrammieren	v
-vorquellen	v
 vorquellen	v
 vorragen	v
 vorrangig	a
@@ -34175,7 +33709,6 @@ wachsartig	a
 wachsbleich	a
 wachseln	v
 wachsen	v
-wachsen	v
 wächsern	a
 wachstumsfördernd	a
 wachstumshemmend	a
@@ -34251,8 +33784,6 @@ waldumsäumt	a
 waldviertler	a
 walisisch	a
 walken	v
-walken	v
-wallen	v
 wallen	v
 wällen	v
 wallfahren	v
@@ -34416,7 +33947,6 @@ wegjagen	v
 wegkarren	v
 wegkaufen	v
 wegkehren	v
-wegkehren	v
 wegkippen	v
 wegklappen	v
 wegklicken	v
@@ -34471,7 +34001,6 @@ wegschieben	v
 wegschießen	v
 wegschlagen	v
 wegschleichen	v
-wegschleifen	v
 wegschleifen	v
 wegschleppen	v
 wegschleudern	v
@@ -34558,7 +34087,6 @@ weibisch	a
 weiblich	a
 weich	a
 weichen	v
-weichen	v
 weichherzig	a
 weichklopfen	v
 weichkochen	v
@@ -34586,7 +34114,6 @@ weingelb	a
 weinig	a
 weinrot	a
 weinselig	a
-weise	a
 weise	a
 weisen	v
 weiser	a
@@ -34807,7 +34334,6 @@ werblich	a
 werbungtreibende	a
 werbungtreibender	a
 werden	v
-werden	v
 werfen	v
 wergen	a
 werkangehörige	a
@@ -35004,7 +34530,6 @@ wiederherrichten	v
 wiederherstellen	v
 wiederholbar	a
 wiederholen	v
-wiederholen	v
 wiederholt	a
 wiederkäuen	v
 wiederkaufen	v
@@ -35025,7 +34550,6 @@ wiederverwerten	v
 wiederwählen	v
 wiefeln	v
 wiegeln	v
-wiegen	v
 wiegen	v
 wiehern	v
 wielandsch	a
@@ -35056,7 +34580,6 @@ willensschwach	a
 willensstark	a
 willentlich	a
 willfahren	v
-willfahren	v
 willfährig	a
 willig	a
 willige	a
@@ -35072,7 +34595,6 @@ windarm	a
 winddicht	a
 windeln	v
 windelweich	a
-winden	v
 winden	v
 windgeschützt	a
 windig	a
@@ -35506,7 +35028,6 @@ zeideln	v
 zeigen	v
 zeihen	v
 zeiseln	v
-zeiseln	v
 zeisen	v
 zeisiggrün	a
 zeitabhängig	a
@@ -35718,7 +35239,6 @@ zerzaust	a
 zerzupfen	v
 zetern	v
 zetteln	v
-zeugen	v
 zeugen	v
 zeugungsfähig	a
 zeugungsunfähig	a
@@ -35940,7 +35460,6 @@ zugehörig	a
 zugeknöpft	a
 zugelassen	a
 zügellos	a
-zügeln	v
 zügeln	v
 zuger	a
 zugereist	a
@@ -36194,7 +35713,6 @@ zurückschneiden	v
 zurückschnellen	v
 zurückschrauben	v
 zurückschrecken	v
-zurückschrecken	v
 zurückschreiben	v
 zurückschwimmen	v
 zurücksehen	v
@@ -36276,7 +35794,6 @@ zusammengeraten	v
 zusammengießen	v
 zusammenhaben	v
 zusammenhalten	v
-zusammenhängen	v
 zusammenhängen	v
 zusammenhängend	a
 zusammenhanglos	a
@@ -36750,3 +36267,10 @@ zytotoxisch	a
 franckesche	a
 mitwohnen	v
 peripteral	a
+überstimulieren	v
+potestativ	a
+vidieren	v
+serialisieren	v
+serialisierbar	a
+ausregeln	v
+vielzähnig	a

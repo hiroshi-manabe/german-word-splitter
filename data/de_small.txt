@@ -192636,3 +192636,5 @@ przychodów
 cenno
 además
 nicts
+sogleich
+andrerseits
