@@ -2126,7 +2126,6 @@ français
 teacher
 maison
 aller
-schwarzweiß
 darstellende
 languages
 glory
@@ -91666,7 +91665,6 @@ paranoides
 vineis
 glossolalia
 multiwavelength
-schwarzweißdenken
 cockatoos
 trener
 zuzählen
