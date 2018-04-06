@@ -24,7 +24,6 @@ trans
 prä
 rumen
 ziger
-log
 kör
 tell
 fak

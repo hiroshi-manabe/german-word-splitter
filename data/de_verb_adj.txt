@@ -36274,3 +36274,5 @@ serialisieren	v
 serialisierbar	a
 ausregeln	v
 vielzähnig	a
+virtualisieren	v
+deduplizieren	v
