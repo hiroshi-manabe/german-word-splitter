@@ -8,6 +8,13 @@ use open ':std';
 use FindBin;
 use List::Util qw(reduce);
 
+use Getopt::Long qw(:config posix_default no_ignore_case gnu_compat);
+
+my %opts;
+GetOptions(\%opts,
+           "dict|d=s@",
+           "reverse|r");
+
 $| = 1;
 
 my $data_dir = $FindBin::Bin."/data";
@@ -15,8 +22,7 @@ my $data_dir = $FindBin::Bin."/data";
 my %word_dict = ();
 my %declension_dict = ();
 
-if (@ARGV) {
-    my $additional_file = shift @ARGV;
+for my $additional_file(@{$opts{"dict"}}) {
     open IN, "<", $additional_file or die;
     while (<IN>) {
         chomp;
@@ -134,6 +140,14 @@ while (<IN>) {
 }
 close IN;
 
+my %hyphen_dict = ();
+open IN, "<", "$data_dir/de_hyphen.txt";
+while (<IN>) {
+    chomp;
+    $hyphen_dict{$_} = ();
+}
+close IN;
+
 add_eszett_keys(\%prefix_dict);
 add_eszett_keys(\%declension_dict);
 add_eszett_keys(\%freq_dict);
@@ -143,8 +157,32 @@ add_reduced_keys(\%freq_dict);
 
 while (<STDIN>) {
     chomp;
-    s{\b(\p{Lu}\p{Ll}+)\b}{decompose($1);}eg;
-    print $_."\n";
+    if (not $opts{"reverse"}) {
+        s{\b(\p{Lu}\p{Ll}+)\b}{decompose($1);}eg;
+        print $_."\n";
+    }
+    else {
+        s{\b((?:\p{Lu}\p{Ll}+-)+\p{Lu}\p{Ll}+)\b}{
+            my $match = $1;
+            my @words = map { lcfirst($_); } split(/-/, $match);
+            my $result = ucfirst($words[0]);
+            for my $i(1..$#words) {
+                if ((not exists $declension_dict{$words[$i-1]} and
+                     not exists $prefix_dict{$words[$i-1]}) or 
+                    exists $hyphen_dict{$words[$i-1]} or
+                    (not exists $declension_dict{$words[$i]} and
+                     not exists $prefix_dict{$words[$i]}) or
+                    exists $hyphen_dict{$words[$i]}) {
+                    $result .= "-".ucfirst($words[$i]);
+                }
+                else {
+                    $result .= $words[$i];
+                }
+            }
+            $result;
+        }eg;
+        print $_."\n";
+    }
 }
 
 sub decompose {

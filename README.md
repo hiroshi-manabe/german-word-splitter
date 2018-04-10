@@ -4,14 +4,17 @@ German Word Splitter
 What's this?
 ------------
 
-**German Word Splitter** is a Perl script that can split German compound words into smaller parts.
+**German Word Splitter** is a Perl script that splits German compound words into their components. It can also recompose compound words, with or without hyphens according to the component words.
 
 Usage
 -----
-./split_german.pl [additional dictionary file] < input > output
+./split_german.pl [--dict additional dictionary file] [--reverse] < input > output
 
 Example
 -------
 
-$ echo "Wählen Sie im Listenfeld Inhaltsvorlage eine Ordnerinhaltskomponente aus." | ./split_german.pl
-Wählen Sie im Listen-Feld Inhalts-Vorlage eine Ordner-Inhalts-Komponente aus.
+$ echo "Image-Installationsdienstprogramm" | ./split_german.pl
+Image-Installations-Dienst-Programm
+
+$ echo "Image-Installations-Dienst-Programm" | ./split_german.pl --reverse
+Image-Installationsdienstprogramm
