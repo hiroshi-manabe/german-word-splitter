@@ -13,8 +13,8 @@ Usage
 Example
 -------
 
-$ echo "Image-Installationsdienstprogramm" | ./split_german.pl
-Image-Installations-Dienst-Programm
+    $ echo "Image-Installationsdienstprogramm" | ./split_german.pl
+    Image-Installations-Dienst-Programm
 
-$ echo "Image-Installations-Dienst-Programm" | ./split_german.pl --reverse
-Image-Installationsdienstprogramm
+    $ echo "Image-Installations-Dienst-Programm" | ./split_german.pl --reverse
+    Image-Installationsdienstprogramm
