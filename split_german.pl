@@ -13,9 +13,16 @@ use Getopt::Long qw(:config posix_default no_ignore_case gnu_compat);
 my %opts;
 GetOptions(\%opts,
            "dict|d=s@",
+           "delimiter=s",
            "reverse|r");
 
 $| = 1;
+
+$opts{"delimiter"} = "-" if $opts{"delimiter"} eq "";
+
+if ($opts{"delimiter"} ne "-" and $opts{"reverse"}) {
+    die "You cannot set a delimiter in the reverse mode.";
+}
 
 my $data_dir = $FindBin::Bin."/data";
 
@@ -159,7 +166,8 @@ add_reduced_keys(\%freq_dict);
 while (<STDIN>) {
     chomp;
     if (not $opts{"reverse"}) {
-        s{\b(\p{Lu}\p{Ll}+)\b}{decompose($1);}eg;
+        s{\b(\p{Lu}\p{Ll}+)-(?=\p{Lu}\p{Ll}+)}{$1$opts{"delimiter"}}g;
+        s{\b(\p{Lu}\p{Ll}+)\b}{decompose($1, $opts{"delimiter"});}eg;
         print $_."\n";
     }
     else {
@@ -174,7 +182,7 @@ while (<STDIN>) {
                     (not exists $declension_dict{$words[$i]} and
                      not exists $prefix_dict{$words[$i]}) or
                     exists $hyphen_dict{$words[$i]}) {
-                    $result .= "-".ucfirst($words[$i]);
+                    $result .= $opts{"delimiter"}.ucfirst($words[$i]);
                 }
                 else {
                     $result .= $words[$i];
@@ -187,7 +195,7 @@ while (<STDIN>) {
 }
 
 sub decompose {
-    my $orig = shift;
+    my ($orig, $delimiter) = @_;
     my $str = lcfirst($orig);
     if (exists $declension_dict{$str} or exists $small_dict{$str}) {
         return $orig;
@@ -199,7 +207,7 @@ sub decompose {
         }
         else {
             for my $str_array_ref(sort {scalar(@{$a})<=>scalar(@{$b}) or (reduce { $a * $freq_dict{$b} } (1, @{$b}[0..$#{$b}-1])) * $freq_dict_last{${$b}[-1]} <=> (reduce { $a * $freq_dict{$b} } (1, @{$a}[0..$#{$a}-1])) * $freq_dict_last{${$a}[-1]} } @{$ref}) {
-                return join("-", map { ucfirst; } @{$str_array_ref});
+                return join($delimiter, map { ucfirst; } @{$str_array_ref});
             }
         }
     }
