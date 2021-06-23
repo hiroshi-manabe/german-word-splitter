@@ -404,3 +404,7 @@ mono
 wieder
 über
 rundum
+vor
+nach
+gegen
+nieder

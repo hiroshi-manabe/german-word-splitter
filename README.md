@@ -18,3 +18,10 @@ Example
 
     $ echo "Image-Installations-Dienst-Programm" | ./split_german.pl --reverse
     Image-Installationsdienstprogramm
+
+Change log
+----------
+
+2021-06-23 Added chemical compounds; Added genitive "-es" to the words that ends with "t" or "d".
+
+2018-04-10 First version.

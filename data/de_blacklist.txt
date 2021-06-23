@@ -181,7 +181,6 @@ fers
 helle
 hetero
 hex
-amin
 hink
 hip
 hipp
@@ -346,7 +345,6 @@ same
 tute
 tode
 kai
-tris
 ul
 vita
 wat
@@ -1004,7 +1002,6 @@ inas
 stotz
 lipa
 sond
-azin
 erdes
 uli
 gmünd

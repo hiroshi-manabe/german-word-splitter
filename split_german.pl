@@ -39,6 +39,7 @@ while (<IN>) {
     @word_dict{@words} = ();
     @declension_dict{@words} = ();
     @declension_dict{map { $_."s"; } grep { !m{[s\x{df}]$} } @words} = ();
+    @declension_dict{map { $_."es"; } grep { m{[dt]$} } @words} = ();
     @declension_dict{map { $_."n"; } grep { m{[elr]$} } @words} = ();
     @declension_dict{map { $_."e"; } grep { m{[^e]$} } @words} = ();
     @declension_dict{map { $_."en"; } grep { m{[^e]$} } @words} = ();
