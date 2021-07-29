@@ -14,6 +14,7 @@ my %opts;
 GetOptions(\%opts,
            "dict|d=s@",
            "delimiter=s",
+           "oov-mark=s",
            "reverse|r");
 
 $| = 1;
@@ -167,7 +168,7 @@ while (<STDIN>) {
     chomp;
     if (not $opts{"reverse"}) {
         s{\b(\p{Lu}\p{Ll}+)-(?=\p{Lu}\p{Ll}+)}{$1$opts{"delimiter"}}g;
-        s{\b(\p{Lu}\p{Ll}+)\b}{decompose($1, $opts{"delimiter"});}eg;
+        s{\b(\p{Lu}\p{Ll}+)\b}{decompose($1, $opts{"delimiter"}, $opts{"oov-mark"});}eg;
         print $_."\n";
     }
     else {
@@ -195,7 +196,7 @@ while (<STDIN>) {
 }
 
 sub decompose {
-    my ($orig, $delimiter) = @_;
+    my ($orig, $delimiter, $oov_mark) = @_;
     my $str = lcfirst($orig);
     if (exists $declension_dict{$str} or exists $small_dict{$str}) {
         return $orig;
@@ -203,7 +204,7 @@ sub decompose {
     else {
         my $ref = enum_candidates($str);
         if (scalar(@{$ref}) == 0) {
-            return $orig;
+            return $oov_mark.$orig;
         }
         else {
             for my $str_array_ref(sort {scalar(@{$a})<=>scalar(@{$b}) or (reduce { $a * $freq_dict{$b} } (1, @{$b}[0..$#{$b}-1])) * $freq_dict_last{${$b}[-1]} <=> (reduce { $a * $freq_dict{$b} } (1, @{$a}[0..$#{$a}-1])) * $freq_dict_last{${$a}[-1]} } @{$ref}) {
